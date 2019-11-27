@@ -1,5 +1,9 @@
 # GovCMS Content Administration
 
+
+## Downloading the materials
+Go to https://github.com/govcms-training/content-admin/releases to get the latest version.
+
 ## Providing Feedback
 
 We’d love to hear your thoughts on this manual. Please give us your feedback via this online form/survey: https://salsadigital.com.au/survey02
