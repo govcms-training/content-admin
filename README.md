@@ -11,8 +11,8 @@ We’d love to hear your thoughts on this manual. Please give us your feedback v
 this online form/survey: https://salsadigital.com.au/survey02
 
 **Note:** While these training materials are updated regularly, modules are also
-often updated and so you may find some differences between your user interface
-and the screenshots in this document. We appreciate your feedback and will work
+often updated, and so you may find some differences between your user interface
+and the screenshots in this document. We appreciate your feedback, and will work
 as quickly as possible to incorporate any corrections.
 
 We’re also continually working on improving these documents with community
@@ -36,6 +36,6 @@ service provider and the official training provider for GovCMS.
 
 <p align="center">
   <a href="https://salsadigital.com.au">
-    <img src="img/govcms-official-service-provider" alt="Official GovCMS Service Provider logo" height="150">
+    <img src="img/govcms-official-service-provider.png" alt="Official GovCMS Service Provider logo" height="150">
   </a>
 </p>
