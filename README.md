@@ -35,7 +35,7 @@ service provider and the official training provider for GovCMS.
 </p>
 
 <p align="center">
-  <a href="https://salsadigital.com.au">
+  <a href="https://salsadigital.com.au/case-studies/building-the-second-generation-govcms">
     <img src="img/govcms-official-service-provider.png" alt="Official GovCMS Service Provider logo" height="150">
   </a>
 </p>
