@@ -39,3 +39,9 @@ service provider and the official training provider for GovCMS.
     <img src="img/govcms-official-service-provider.png" alt="Official GovCMS Service Provider logo" height="150">
   </a>
 </p>
+
+
+## Terms of use
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Australia License (CC BY-SA 3.0 AU). 
+To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/au/.
