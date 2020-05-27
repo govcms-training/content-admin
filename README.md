@@ -7,7 +7,7 @@ This training manual is for government or not-for-profit employees using GovCMS 
 
 This manual assumes you have GovCMS on your local computer or on the GovCMS hosting platform. While there are no specific knowledge prerequisites, if you’ve had experience with other CMSs you’ll find this course (and using GovCMS) easier.
 
-Public URL: https://salsa-digital.gitbook.io/govcms-content-administration
+Public URL: https://salsa-digital.gitbook.io/govcms-content-administration \
 GitHub URL: https://github.com/govcms-training/content-admin
 
 ## What you will learn
