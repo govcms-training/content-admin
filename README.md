@@ -1,5 +1,5 @@
 # GovCMS Content Administration Training Manual
-[![CC BY-SA 3.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 3.0][cc-by-sa-shield]][cc-by-sa] 
 
 
 ![GovCMS Logo](.gitbook/assets/govcms-logo.png) ![Salsa Digital Logo](.gitbook/assets/salsa-logo.png)
