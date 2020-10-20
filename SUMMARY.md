@@ -8,6 +8,10 @@
 * [Introduction to GovCMS](introduction-to-govcms/intro.md)
 * [Overview of user roles](introduction-to-govcms/overview-of-user-roles.md)
 
+## Training Videos
+
+* [Intro to the admin backend](training-videos/intro-to-the-admin-backend.md)
+
 ## Unit 1: Intro to the Admin Backend
 
 * [Training Videos](unit-1-intro-to-the-admin-backend/training-videos.md)
