@@ -14,7 +14,6 @@
 
 ## Unit 1: Intro to the Admin Backend
 
-* [Training Videos](unit-1-intro-to-the-admin-backend/training-videos.md)
 * [How to login to GovCMS](unit-1-intro-to-the-admin-backend/untitled.md)
 * [How to log out from your site](unit-1-intro-to-the-admin-backend/how-to-log-out-from-your-site.md)
 * [The Frontend Homepage Layout](unit-1-intro-to-the-admin-backend/the-frontend-homepage-layout.md)
