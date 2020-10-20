@@ -74,7 +74,9 @@ Webform components can be used to collect different types of data. There are man
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>![](../.gitbook/assets/118%20%281%29.png)
+</table>
+
+![](../.gitbook/assets/118%20%281%29.png)
 
 ### 
 
@@ -125,7 +127,9 @@ The _Settings_ tab contains some useful advanced options.
         other options to familiarise yourself with the form.</td>
     </tr>
   </tbody>
-</table>### Webform results
+</table>
+
+### Webform results
 
 You can view the webform results from the _Webform_ page \(if your account has the correct permissions\) by clicking on the **Results** tab. Results can be viewed and downloaded in many different formats.
 
