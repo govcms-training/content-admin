@@ -1,5 +1,9 @@
 # How to login to GovCMS
 
+
+
+{% embed url="https://vimeo.com/469210192/f8b616dd59" %}
+
 To get to the login screen of most GovCMS sites, simply type the site’s URL with **/user** on the end. \(For many government sites this won't work unless you’re on the internal network.\) For example:
 
 * [https://www.salsadigital.com.au/](https://www.salsadigital.com.au/user)[**user**](https://www.salsadigital.com.au/user)
