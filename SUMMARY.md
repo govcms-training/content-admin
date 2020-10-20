@@ -14,7 +14,7 @@
 
 ## Unit 1: Intro to the Admin Backend
 
-* [How to login to GovCMS](unit-1-intro-to-the-admin-backend/untitled.md)
+* [How to login to GovCMS](unit-1-intro-to-the-admin-backend/how-to-login.md)
 * [How to log out from your site](unit-1-intro-to-the-admin-backend/how-to-log-out-from-your-site.md)
 * [The Frontend Homepage Layout](unit-1-intro-to-the-admin-backend/the-frontend-homepage-layout.md)
 * [How to access the content management area](unit-1-intro-to-the-admin-backend/how-to-access-the-content-management-area.md)
