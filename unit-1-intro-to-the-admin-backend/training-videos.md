@@ -1,7 +1,3 @@
----
-description: Test
----
-
 # Training Videos
 
 ## How to log in to GovCMS
