@@ -16,7 +16,7 @@ On the other hand, dynamic content such as Events, News or Blog articles do not 
 
 There are two methods you can use to add menu items. The exercise below takes you through the two methods, using the example of adding a menu item to the Footer submenu.
 
-#### Exercise 10.1: Add an item to a menu
+# Exercise 10.1: Add an item to a menu
 
 In this exercise you’ll learn the two methods used to add menu items.
 
