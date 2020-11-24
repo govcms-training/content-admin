@@ -21,7 +21,7 @@ There are a few ways you can provide feedback:
 
 * The source code for this manual is hosted on Github and uses a service called Gitbook for publishing its documentation. 
 * The manuals are written using Markdown mark up language.
-* The GovCMS content administration manual is part of the [govcms-training](https://github.com/govcms-training) distribution which also includes the [GovCMS site builder manual](https://github.com/govcms-training/content-admin).
+* The GovCMS content administration manual is part of the [govcms-training](https://github.com/govcms-training) distribution which also includes the [GovCMS site builder manual](https://github.com/govcms-training/site-builder).
 * Both these manuals share a [public Roadmap](https://github.com/orgs/govcms-training/projects/1) which lists out issues and feature requests on a kanban board. 
 * [Click here](https://github.com/govcms-training/content-admin/issues) to view the current issue queue for the GovCMS content administration manual. 
 * All contributions must be licensed under [CC BY-SA 3.0 AU](https://creativecommons.org/licenses/by-sa/3.0/au/). 
