@@ -1,6 +1,6 @@
 # GovCMS Content Administration Training Manual
-[![CC BY-SA 3.0][cc-by-sa-shield]][cc-by-sa]
 
+[![CC BY-SA 3.0](https://camo.githubusercontent.com/54f85ff154017b9f86a8882c3469d7dfcab63442ae40f2ec49b7bbffede2d475/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d434325323042592d2d5341253230332e3025323041552d6c69676874677265792e737667)](https://creativecommons.org/licenses/by-sa/3.0/au/)
 
 ![GovCMS Logo](.gitbook/assets/govcms-logo.png) ![Salsa Digital Logo](.gitbook/assets/salsa-logo.png)
 
@@ -8,7 +8,7 @@ This training manual is for government or not-for-profit employees using GovCMS 
 
 This manual assumes you have GovCMS on your local computer or on the GovCMS hosting platform. While there are no specific knowledge prerequisites, if you’ve had experience with other CMSs you’ll find this course \(and using GovCMS\) easier.
 
-Public URL: [https://salsa-digital.gitbook.io/govcms-content-administration](https://salsa-digital.gitbook.io/govcms-content-administration)  GitHub URL: [https://github.com/govcms-training/content-admin](https://github.com/govcms-training/content-admin)
+Public URL: [https://salsa-digital.gitbook.io/govcms-content-administration](https://salsa-digital.gitbook.io/govcms-content-administration) GitHub URL: [https://github.com/govcms-training/content-admin](https://github.com/govcms-training/content-admin)
 
 ## What you will learn
 
@@ -41,12 +41,9 @@ Alternatively you can also provide any feedback by emailing **govcms.training@sa
 
 ## License
 
-[![CC BY-SA 3.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 3.0](https://camo.githubusercontent.com/54f85ff154017b9f86a8882c3469d7dfcab63442ae40f2ec49b7bbffede2d475/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d434325323042592d2d5341253230332e3025323041552d6c69676874677265792e737667)](https://creativecommons.org/licenses/by-sa/3.0/au/)  
+  
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Australia License \(CC BY-SA 3.0 AU\)](https://creativecommons.org/licenses/by-sa/3.0/au/).
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Australia License (CC BY-SA 3.0 AU)](https://creativecommons.org/licenses/by-sa/3.0/au/). 
+[![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/3.0/au/)
 
-[![CC BY-SA 3.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]: https://creativecommons.org/licenses/by-sa/3.0/au/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%203.0%20AU-lightgrey.svg

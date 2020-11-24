@@ -1,5 +1,7 @@
 # Restrictions for adding content to the site navigation
 
+## Restrictions for adding content to the site navigation
+
 When managing content you may discover that some of the content types have an option to be added to the main navigation \(or another\) menu, while others do not.
 
 Try comparing the forms when adding a News and Media content and a Standard Page:
@@ -16,7 +18,7 @@ On the other hand, dynamic content such as Events, News or Blog articles do not 
 
 There are two methods you can use to add menu items. The exercise below takes you through the two methods, using the example of adding a menu item to the Footer submenu.
 
-# Exercise 10.1: Add an item to a menu
+## Exercise 10.1: Add an item to a menu
 
 In this exercise you’ll learn the two methods used to add menu items.
 
@@ -39,6 +41,4 @@ This method requires privileged site access \(e.g. an Administrator user\).
 5. Select _Footer_ in the _Parent Item_ dropdown
 6. Set _Published_
 7. Click **Save**
-
-## 
 

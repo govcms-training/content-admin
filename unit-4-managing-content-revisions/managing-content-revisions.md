@@ -18,7 +18,7 @@ Another useful feature of the revision system is the _Revision log message_ fiel
 
 ![](../.gitbook/assets/44.png)
 
-#### Exercise 4.1: View Revisions History
+## Exercise 4.1: View Revisions History
 
 In this exercise you’ll learn how to view your revision history for a piece of content. You can also revert content to previous versions from the Revisions History page. Follow these steps to find your change history for the test Standard Page we’ve been working on:
 
@@ -30,7 +30,7 @@ In this exercise you’ll learn how to view your revision history for a piece of
 
 **Tip:** When saving content changes it’s a good idea to leave a short but descriptive _Revision log message_. This can help you and other _Content Editors_ understand what changes were made in each revision \(which is particularly handy if you need to revert to an older version\).
 
-#### Exercise 4.2: Revert a content Revision
+## Exercise 4.2: Revert a content Revision
 
 In this exercise you’ll learn how to revert to a previous version of your content.
 
