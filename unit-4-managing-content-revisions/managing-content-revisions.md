@@ -14,7 +14,9 @@ In the Revisions tab, a table lists each revision along with a timestamp, the us
 
 When you revert to a previous revision, GovCMS creates a copy. So if you have three revision versions \(eg, 1,2,3 and current, when you revert to \#2 a copy of \#2 is made and the copy is set as the current revision. So after the reversion, you’ll end up with five versions/revisions \(1,2,3,4 and current\), where current is a clone of \#2.
 
-Another useful feature of the revision system is the _Revision log message_ field, which appears near the _Create a new revision_ checkbox on the content editing form. If you add a message to this field when you create a revision, that message will appear on the Revisions tab along with the revision. It’s a good idea to add a meaningful message here whenever you create a node revision so that others \(or you, months later\) can see why you changed the node and what your changes were, without having to actually view the previous revision.![](../.gitbook/assets/44.png)
+Another useful feature of the revision system is the _Revision log message_ field, which appears near the _Create a new revision_ checkbox on the content editing form. If you add a message to this field when you create a revision, that message will appear on the Revisions tab along with the revision. It’s a good idea to add a meaningful message here whenever you create a node revision so that others \(or you, months later\) can see why you changed the node and what your changes were, without having to actually view the previous revision.
+
+![](../.gitbook/assets/44.png)
 
 #### Exercise 4.1: View Revisions History
 
@@ -45,5 +47,7 @@ In this exercise you’ll learn how to revert to a previous version of your cont
 
 ![](../.gitbook/assets/47.png)
 
-**Note**: Only a previously Published revision can become the Current one. Draft revision \#1 \(from the example below\) will create a new draft revision \#5 and the current published revision \#4 will stay as Current.![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2Fgovcms-content-administration%2F-Lz9MbTk3go6najopjFe%2F-Lz9MvTd2jOQ87QAKzUY%2F47.png?generation=1579648285141965&alt=media)
+**Note**: Only a previously Published revision can become the Current one. Draft revision \#1 \(from the example below\) will create a new draft revision \#5 and the current published revision \#4 will stay as Current.
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2Fgovcms-content-administration%2F-Lz9MbTk3go6najopjFe%2F-Lz9MvTd2jOQ87QAKzUY%2F47.png?generation=1579648285141965&alt=media)
 
