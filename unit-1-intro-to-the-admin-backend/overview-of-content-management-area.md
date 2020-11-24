@@ -1,5 +1,7 @@
 # Overview of content management area
 
+{% embed url="https://vimeo.com/469289141/ccf42a143e" %}
+
 Below the Admin menu, the page title shows that you’re in the Content area of the admin interface.
 
 ![](../.gitbook/assets/11.png)

@@ -1,18 +1,18 @@
 # GovCMS Content Administration Training Manual
-[![CC BY-SA 3.0][cc-by-sa-shield]][cc-by-sa] 
+[![CC BY-SA 3.0][cc-by-sa-shield]][cc-by-sa]
+
 
 ![GovCMS Logo](.gitbook/assets/govcms-logo.png) ![Salsa Digital Logo](.gitbook/assets/salsa-logo.png)
 
-This training manual is for government or not-for-profit employees using GovCMS to edit and manage their website. However, many of the concepts in this manual can be applied to other Drupal sites. 
+This training manual is for government or not-for-profit employees using GovCMS to edit and manage their website. However, many of the concepts in this manual can be applied to other Drupal sites.
 
-This manual assumes you have GovCMS on your local computer or on the GovCMS hosting platform. While there are no specific knowledge prerequisites, if you’ve had experience with other CMSs you’ll find this course (and using GovCMS) easier.
+This manual assumes you have GovCMS on your local computer or on the GovCMS hosting platform. While there are no specific knowledge prerequisites, if you’ve had experience with other CMSs you’ll find this course \(and using GovCMS\) easier.
 
-Public URL: https://salsa-digital.gitbook.io/govcms-content-administration \
-GitHub URL: https://github.com/govcms-training/content-admin
+Public URL: [https://salsa-digital.gitbook.io/govcms-content-administration](https://salsa-digital.gitbook.io/govcms-content-administration)  GitHub URL: [https://github.com/govcms-training/content-admin](https://github.com/govcms-training/content-admin)
 
 ## What you will learn
 
-In this training manual, you will learn how to: 
+In this training manual, you will learn how to:
 
 1. Login to the administration area and access key areas
 2. Create and manage content and content revisions
@@ -27,17 +27,15 @@ In this training manual, you will learn how to:
 
 ## About GovCMS
 
-Welcome to GovCMS, a whole-of-government digital platform based on open source content management system (CMS) Drupal.
+Welcome to GovCMS, a whole-of-government digital platform based on open source content management system \(CMS\) Drupal.
 
 One of the advantages of GovCMS as a whole-of-government digital platform is that the content covered in this course can be applied to the many GovCMS websites across Australian government. In addition, while this course focuses on GovCMS, much of the content and exercises can be applied to Drupal websites.
 
-
 ## Contributing & Feedback
 
-We’re continually working on improving these documents with community input and we appreciate any feedback, whether it's helping to contribute to further documentation or code, grammar issues, or simply a suggestion or improvement! Please refer to the [Contributing guide](CONTRIBUTING.md) for more guidance on this topic.
+We’re continually working on improving these documents with community input and we appreciate any feedback, whether it's helping to contribute to further documentation or code, grammar issues, or simply a suggestion or improvement! Please refer to the [Contributing guide](contributing.md) for more guidance on this topic.
 
 Alternatively you can also provide any feedback by emailing **govcms.training@salsadigital.com.au**.
-
 
 **Note**: While these training materials are updated regularly, modules are also often updated and so you may find some differences between your user interface and the screenshots in this document. We appreciate your feedback and will work as quickly as possible to incorporate any corrections.
 

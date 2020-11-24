@@ -1,5 +1,7 @@
 # How to access the content management area
 
+{% embed url="https://vimeo.com/469290467/83dcc58c11" %}
+
 You can access the content management area through the top Admin bar.
 
 Using the Admin menu at the very top, click on _Manage_ → _Content_

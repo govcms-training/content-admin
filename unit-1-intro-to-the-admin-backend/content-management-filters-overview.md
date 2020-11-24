@@ -1,6 +1,6 @@
 # Content management - filters overview
 
-### Content management - filters overview
+{% embed url="https://vimeo.com/469277072/ab4e68a298" %}
 
 You can use the filter section of the content management area to search and display specific content.
 

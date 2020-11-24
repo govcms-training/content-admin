@@ -2,6 +2,8 @@
 
 
 
+{% embed url="https://vimeo.com/469292408/2e78f6515b" %}
+
 The screenshot on the right shows what the default front page of a freshly installed GovCMS 8 site looks like, with some demo content added to it.
 
 It’s split into various horizontal sections, often referred to as “regions”. From top to bottom, these are:![](../.gitbook/assets/7.png)
