@@ -30,5 +30,23 @@ We welcome your feedback on our training materials so we can keep improving and 
 
 {% embed url="https://vimeo.com/469224679/6f737ea566" %}
 
+## GovCMS content types overview
 
+{% embed url="https://vimeo.com/488344291" %}
+
+## GovCMS content form overview
+
+{% embed url="https://vimeo.com/488350047" %}
+
+## GovCMS rich text editor overview
+
+{% embed url="https://vimeo.com/488351696" %}
+
+## Create, edit and archive content in GovCMS
+
+{% embed url="https://vimeo.com/488354549" %}
+
+## Managing content revisions in GovCMS
+
+{% embed url="https://vimeo.com/488356227" %}
 
