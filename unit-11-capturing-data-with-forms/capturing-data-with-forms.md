@@ -1,5 +1,7 @@
 # Capturing data with forms
 
+## Capturing data with forms
+
 An online form \(HTML form\) allows users to fill out information on your website and can be used to capture a variety of data/information. In GovCMS, forms can be created in the following ways:
 
 * Creation of a custom form \(this requires expertise and would be done by a developer\)
@@ -20,7 +22,7 @@ Webforms are good if you want to:
 
 **Note:** In GovCMS 8, each _Webform_ is an independent _entity_; to attach metadata to _Webforms_ it has to be referenced from a _Webform_ _**content type**_. This approach allows for broader use-cases of webforms as independent entities and means they can be reused in multiple places.
 
-# Exercise 11.1: Create a basic webform
+## Exercise 11.1: Create a basic webform
 
 In this exercise we'll create a simple website feedback form.
 
@@ -74,11 +76,11 @@ In this exercise we'll create a simple website feedback form.
 
     ![](../.gitbook/assets/102%20%281%29.png)
 
-15. Return to the General section and make the Feedback field _Required_  ![](../.gitbook/assets/103%20%281%29.png)
-16.  Press **Save** and review the form you created.
+15. Return to the General section and make the Feedback field _Required_ ![](../.gitbook/assets/103%20%281%29.png)
+16. Press **Save** and review the form you created.
 17. Submit your new form \(a few times if you like\)
 
-# Exercise 11.2: Attach a feedback form to a Webform
+## Exercise 11.2: Attach a feedback form to a Webform
 
 In this exercise we attach the webform created in Exercise 11.1 to a webform page, so that it’s accessible by the public and can have other attributes available to content types \(for example, we could place it on a custom URL, attach to a site navigation menu, add metadata and use moderation workflow\).
 
@@ -88,6 +90,4 @@ In this exercise we attach the webform created in Exercise 11.1 to a webform pag
 4. Attach the Webform to the main navigation - see the screenshot: ![](../.gitbook/assets/104%20%281%29.png)
 5. Under the _URL alias_ field, create a custom URL for your feedback webform ![](../.gitbook/assets/105.png)
 6. Publish the Webform and review it. Ask your trainer if you have any questions. 
-
-### 
 
