@@ -4,7 +4,7 @@ Files and Media are essentially the same as they both show you audio, files \(do
 
 The Files section shows you a list view of all media types and AND the location of where they're used. Example: This may be useful if you want to remove an image but need to see which content pages are utilising this image first.
 
-The Media tabbed section shows you the same files, however shows you the thumbnail, so for browsing images this is easier than via Files. It also gives you a Search Filter, where you can search by Media name and by Type \(if you're looking for an audio file, for example\).
+The Media tabbed section shows you the same files, however this Media tabbed section also shows you the thumbnail, so for browsing images this is easier than via Files. It also gives you a Search Filter, where you can search by Media name and by Type \(if you're looking for an audio file, for example\).
 
 Files in GovCMS are managed via the Content → Files link \(or /admin/content/files URL\). 
 
