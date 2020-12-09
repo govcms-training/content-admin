@@ -1,4 +1,4 @@
-# Videos
+# Content admin how-to videos
 
 We welcome your feedback on our training materials so we can keep improving and adding new features. Please fill in the survey and let us know your thoughts. [salsa.digital/govcms-feedback-videos](https://salsadigital.com.au/feedback-govcms-videos)
 
