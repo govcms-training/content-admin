@@ -18,7 +18,7 @@ Components may look different in every website implementation. The ‘vanilla’
 
 In this exercise you’ll use components and add and style content.
 
-![](../.gitbook/assets/128.png)
+![](../.gitbook/assets/128%20%281%29.png)
 
 1. Create a _Standard page_ and add some content
 2. In the _Components_ section, click on the **Add content**

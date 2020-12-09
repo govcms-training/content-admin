@@ -28,7 +28,7 @@ In this exercise we’ll create a fully custom redirect from a short URL to a pa
 
 5. Press the **Save** button.
 
-   ![](../.gitbook/assets/76%20%281%29.png)
+   ![](../.gitbook/assets/76%20%281%29%20%281%29.png)
 
 6. Test your new redirect by going to the _Path_ you provided in step 3 and confirming that the page you selected in the _To_ field is displayed. What’s the page URL now? 
 7. In small groups, discuss how you could use the _URL Redirects_ functionality in GovCMS for your government agency website.

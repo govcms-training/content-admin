@@ -6,7 +6,7 @@ When managing content you may discover that some of the content types have an op
 
 Try comparing the forms when adding a News and Media content and a Standard Page:
 
-![](../.gitbook/assets/91.png)![](../.gitbook/assets/92%20%281%29.png)
+![](../.gitbook/assets/91%20%281%29.png)![](../.gitbook/assets/92%20%281%29.png)
 
 _Right-hand side options in the News and Media form \(left\) and Standard Page \(right\)_
 

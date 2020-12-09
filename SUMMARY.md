@@ -10,7 +10,7 @@
 
 ## Training Videos
 
-* [Unit 1: Intro to the admin backend](training-videos/intro-to-the-admin-backend.md)
+* [Videos](training-videos/intro-to-the-admin-backend.md)
 
 ## Unit 1: Intro to the Admin Backend
 

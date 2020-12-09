@@ -8,7 +8,7 @@ GovCMS comes with a default workflow process \(see the diagram below\). In this 
 * Content “transitions” as it moves from one state to another
 * Different people/roles have different permissions when it comes to the content workflow. For example, in the default setting, Content Editors _cannot publish content -_ it has to be approved by a Content Approver.
 
-![](../.gitbook/assets/48.png)
+![](../.gitbook/assets/48%20%281%29.png)
 
 This default workflow can also be extended by a site builder/developer.
 
@@ -20,7 +20,7 @@ You can publish content using the content editing form. The "states" available w
 
 Content moderation is a GovCMS tool \(module\) that provides the publishing workflow functionality. It also provides a customisable dashboard. You can access it from the main Content Administration page by clicking the **Moderated content** tab \(position 2 in the figure below\).
 
-![](../.gitbook/assets/50%20%281%29.png)_Moderated content page in GovCMS_
+![](../.gitbook/assets/50%20%281%29%20%281%29.png)_Moderated content page in GovCMS_
 
 #### Exercise 5.1: Use the Content Moderation
 

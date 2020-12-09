@@ -6,7 +6,7 @@
 
 The screenshot on the right shows what the default front page of a freshly installed GovCMS 8 site looks like, with some demo content added to it.
 
-It’s split into various horizontal sections, often referred to as “regions”. From top to bottom, these are:![](../.gitbook/assets/7.png)
+It’s split into various horizontal sections, often referred to as “regions”. From top to bottom, these are:![](../.gitbook/assets/7%20%282%29.png)
 
 1. Site logo and search bar
 2. Main navigation menu
@@ -22,7 +22,7 @@ The top section that contains the site logo and the main navigation menu \(secti
 
 While you’re still on the homepage, try hovering your mouse over the various sections of the page. Notice that for some of them, a small round button with a pencil icon appears over the top-right corner. These are called “Contextual Links” and they provide an easy way to quickly access some common tasks, **related to the element the contextual menu belongs to**. In the left-hand screenshot below you can see what the contextual icon looks like when hovering over one of the tiles in the Content example \(demo\). When you click on the pencil icon, the available actions/tasks are revealed, as shown in the screenshot below.
 
-| ![](../.gitbook/assets/8.png) | ![](../.gitbook/assets/9%20%281%29.png) |
+| ![](../.gitbook/assets/8%20%282%29.png) | ![](../.gitbook/assets/9%20%282%29%20%281%29.png) |
 | :--- | :--- |
 
 

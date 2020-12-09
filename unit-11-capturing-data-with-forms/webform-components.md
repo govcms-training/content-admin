@@ -6,11 +6,11 @@ Webform components can be used to collect different types of data. There are man
   <thead>
     <tr>
       <th style="text-align:left">
-        <img src="../.gitbook/assets/106 (1).png" alt="https://lh4.googleusercontent.com/Xn1TINX_oqYD39vRLLvPeU6UhtX8zbu02g5INEeVf9iw0InP1SRWGXOhuAHHRAim2X4J2YEAhDDDk2OXvoW8fzEnpQ0QrnjywapxQoIJbgzX-eUlxNGPNZUC0GrTu-r1HioqoY8I"
+        <img src="../.gitbook/assets/106 (1) (1).png" alt="https://lh4.googleusercontent.com/Xn1TINX_oqYD39vRLLvPeU6UhtX8zbu02g5INEeVf9iw0InP1SRWGXOhuAHHRAim2X4J2YEAhDDDk2OXvoW8fzEnpQ0QrnjywapxQoIJbgzX-eUlxNGPNZUC0GrTu-r1HioqoY8I"
         />
       </th>
       <th style="text-align:left">
-        <img src="../.gitbook/assets/107 (1).png" alt="https://lh4.googleusercontent.com/ZMum0v7hY45_oJRNUknl1kMXUPpG1rFjvayzFBQfdTZzzbyzmLBbA27Uvyti_eSxs6wIkPEYbSl52YmbOZ64brwGj9BPFkhhE_b1px4u6QZ9E4zrB0CUMtcV8KLETrLTfs0pG-dR"
+        <img src="../.gitbook/assets/107 (1) (1).png" alt="https://lh4.googleusercontent.com/ZMum0v7hY45_oJRNUknl1kMXUPpG1rFjvayzFBQfdTZzzbyzmLBbA27Uvyti_eSxs6wIkPEYbSl52YmbOZ64brwGj9BPFkhhE_b1px4u6QZ9E4zrB0CUMtcV8KLETrLTfs0pG-dR"
         />
       </th>
     </tr>
@@ -29,7 +29,7 @@ Webform components can be used to collect different types of data. There are man
         />
       </td>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/110 (1).png" alt="https://lh6.googleusercontent.com/8Sy-cXhoDS7sfwHVZpfTRL-fWTj5Fh0HHCLhsMpzbkob9NIvq34W2S0TcBOxkmsmR4DskuNTf6H-ieefKKAzqreaa7_D_Y0D0iMnJzeMhsTKh9cRgyz_Adwnzugc0kB0-s_x9VWk"
+        <img src="../.gitbook/assets/110 (1) (1).png" alt="https://lh6.googleusercontent.com/8Sy-cXhoDS7sfwHVZpfTRL-fWTj5Fh0HHCLhsMpzbkob9NIvq34W2S0TcBOxkmsmR4DskuNTf6H-ieefKKAzqreaa7_D_Y0D0iMnJzeMhsTKh9cRgyz_Adwnzugc0kB0-s_x9VWk"
         />
       </td>
     </tr>
@@ -44,14 +44,14 @@ Webform components can be used to collect different types of data. There are man
           />
         </p>
         <p>
-          <img src="../.gitbook/assets/113 (1).png" alt="https://lh6.googleusercontent.com/Pi6vFbJTZYCBgMhXp9sSFBtfFsLCDT1nCZDlD7GcLO5yoHqDuoXPwfH9GVYILHSuenia2xyeVxRcfrle_RjaQyHhTF2X2ExBwkBm05Z3zm_fKglrh4jIkPQF1eyV5ipDRbL_rJPi"
+          <img src="../.gitbook/assets/113 (1) (1).png" alt="https://lh6.googleusercontent.com/Pi6vFbJTZYCBgMhXp9sSFBtfFsLCDT1nCZDlD7GcLO5yoHqDuoXPwfH9GVYILHSuenia2xyeVxRcfrle_RjaQyHhTF2X2ExBwkBm05Z3zm_fKglrh4jIkPQF1eyV5ipDRbL_rJPi"
           />
         </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/114 (1).png" alt="https://lh6.googleusercontent.com/Npvrgi-rD-mXVEnXc6ptswwyoB3Yb9vfrcygHWdmrzX6mjMNcFiy_U1XVbuo8qTCGgOPUKmukS45AVkUs4x6t-OxEhS4rgLVq3TsIOhjpcVB84NFqHIMIdNfv9hwiPt5GaGeJfYD"
+        <img src="../.gitbook/assets/114 (1) (1).png" alt="https://lh6.googleusercontent.com/Npvrgi-rD-mXVEnXc6ptswwyoB3Yb9vfrcygHWdmrzX6mjMNcFiy_U1XVbuo8qTCGgOPUKmukS45AVkUs4x6t-OxEhS4rgLVq3TsIOhjpcVB84NFqHIMIdNfv9hwiPt5GaGeJfYD"
         />
       </td>
       <td style="text-align:left"></td>
@@ -68,7 +68,7 @@ Webform components can be used to collect different types of data. There are man
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/117 (1).png" alt="https://lh5.googleusercontent.com/AUCBZp76lHRoxveWBYi0QnzN_XO0UtjX0PhvLorQ4wanysuCzHbcVtf5Mh_txZRxyHuvoLKSKjptJvfl-3G055cqwWeg1odhW7uyucJG89pIOyv4HkgGqH4hzMxsjXxlGfr4vKhE"
+        <img src="../.gitbook/assets/117 (1) (1).png" alt="https://lh5.googleusercontent.com/AUCBZp76lHRoxveWBYi0QnzN_XO0UtjX0PhvLorQ4wanysuCzHbcVtf5Mh_txZRxyHuvoLKSKjptJvfl-3G055cqwWeg1odhW7uyucJG89pIOyv4HkgGqH4hzMxsjXxlGfr4vKhE"
         />
       </td>
       <td style="text-align:left"></td>
@@ -76,7 +76,7 @@ Webform components can be used to collect different types of data. There are man
   </tbody>
 </table>
 
-![](../.gitbook/assets/118%20%281%29.png)
+![](../.gitbook/assets/118%20%281%29%20%281%29.png)
 
 ### 
 
@@ -140,14 +140,14 @@ In this exercise we’re going to create an event registration form.
 1. Add a new Webform \(see previous Exercise 11.1 how to create a webform\) and set its title as _Event Registration._
 2. Add a component field type _Entity select_ \(see the _Entity reference elements_ section\), titled "Event" \(make it required - see the Form Validation fieldset at the bottom\). Configure the rest of the options to match these screenshots:
 
-   ![](../.gitbook/assets/119%20%281%29.png)![](../.gitbook/assets/120.png)
+   ![](../.gitbook/assets/119%20%281%29.png)![](../.gitbook/assets/120%20%281%29.png)
 
 3. Add a _Text field_ element labelled “Full name”, make it required. You may add the description “Please enter your full name” in the _Element description/help/more_ fieldset.
 4. Add an _Email_ element, labelled “Email address” and make it required.
 5. Add a Textarea element labelled “Comment” and make it optional.
 6. Add some “Basic HTML” markup that says: "You are about to submit a form on the internet, are you sure?"
 
-   ![](../.gitbook/assets/121%20%281%29.png)
+   ![](../.gitbook/assets/121%20%281%29%20%281%29.png)
 
 7. Split your form into two-page form by adding two pages. Name them “Step 1. Form” and “Step 2. Confirmation”
 
@@ -161,7 +161,7 @@ In this exercise we’re going to create an event registration form.
 
 **Hint:** The Test tab allows you to easily test your form with auto-filled dummy data.
 
-![](../.gitbook/assets/124%20%281%29.png)
+![](../.gitbook/assets/124%20%281%29%20%281%29.png)
 
 ### 
 
