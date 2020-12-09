@@ -19,7 +19,7 @@ In this exercise you’ll learn how to update meta tags.
 
    ![A screenshot of a social media post
 
-   Description automatically generated](../.gitbook/assets/80%20%281%29.png)
+   Description automatically generated](../.gitbook/assets/80%20%281%29%20%281%29.png)
 
 5. Edit the page you created in step 1 and update values for the Meta Tags - the _Page title_ and _Description_ fields.
 6. Review page source \(as in step 3\) and check how the values of those fields have changed. 

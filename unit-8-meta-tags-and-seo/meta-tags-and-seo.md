@@ -10,7 +10,7 @@ The Metatag module provides two areas to manage the metadata of your site:
 To understand how to manage content metadata, let’s conduct a simple search for “govcms training” in Google. One of the search results is [https://www.govcms.gov.au/support/govcms-training](https://www.govcms.gov.au/support/govcms-training). This is what the Google search result looks like:  
 
 
-![](../.gitbook/assets/77%20%281%29.png)
+![](../.gitbook/assets/77%20%281%29%20%281%29.png)
 
 The search result snippet consists of the following elements:  
 

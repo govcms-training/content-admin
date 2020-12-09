@@ -26,7 +26,7 @@ In this exercise you’ll perform a bulk action to delete content.
 5. Confirm your action
 6. Review Content page - all content that you selected has been removed
 
-![](../.gitbook/assets/129%20%281%29.png)
+![](../.gitbook/assets/129%20%281%29%20%281%29.png)
 
 ## 
 

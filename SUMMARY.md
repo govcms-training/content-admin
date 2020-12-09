@@ -10,7 +10,7 @@
 
 ## Training Videos
 
-* [Unit 1: Intro to the admin backend](training-videos/intro-to-the-admin-backend.md)
+* [GovCMS how-to videos](training-videos/video-list.md)
 
 ## Unit 1: Intro to the Admin Backend
 

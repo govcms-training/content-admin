@@ -12,7 +12,7 @@ The Files page lists all physical files uploaded to the website. This page does 
 
 The Media page can be accessed via Content → Media tab. It offers a rich media management interface, including locating media assets editing them, replacing them or deleting them.
 
-While files are physical items that have been uploaded to the website and stored in the filesystem, the Media assets are content that links to a physical file, also providing the ability to store additional data about the file, such as a user-friendly name, Alt text \(for images\), tags and track revisions.![https://lh3.googleusercontent.com/3Yg7yvW7TPxfHwGPRoLs6PYPwre80Lu9Fv2uiYiJmO2FHMsWnsm8WOcfnVEl4Vj6t0JBEIwyHDuUI-Wy3UbcDv0VguoLRviCV4\_tdGh1TyUkxMOhp\_hvtS08I7yOWRMgOnMPCIK4](../.gitbook/assets/51.png)
+While files are physical items that have been uploaded to the website and stored in the filesystem, the Media assets are content that links to a physical file, also providing the ability to store additional data about the file, such as a user-friendly name, Alt text \(for images\), tags and track revisions.![https://lh3.googleusercontent.com/3Yg7yvW7TPxfHwGPRoLs6PYPwre80Lu9Fv2uiYiJmO2FHMsWnsm8WOcfnVEl4Vj6t0JBEIwyHDuUI-Wy3UbcDv0VguoLRviCV4\_tdGh1TyUkxMOhp\_hvtS08I7yOWRMgOnMPCIK4](../.gitbook/assets/51%20%281%29.png)
 
 To manage Files and Media assets, go to Content → Files. The primary tabs allow you to switch between Files and Media.
 
@@ -64,11 +64,11 @@ The Action selector allows you to implement bulk operations on multiple media as
 
 To add media to the Media Library, click **Content** → **Add media**.
 
-![](../.gitbook/assets/54.png)
+![](../.gitbook/assets/54%20%281%29.png)
 
 This brings you to a page that lists all media types available on the site. Click the appropriate media type, such as Image.
 
-![](../.gitbook/assets/55%20%281%29.png)
+![](../.gitbook/assets/55%20%281%29%20%281%29.png)
 
 Fill out all required fields. Providing some tags and a Revision log message can help manage large media libraries. Save the Media.
 
@@ -86,7 +86,7 @@ When you create or edit content, the form includes an area to upload a thumbnail
 
 _Screenshot: a Media browser opens in an overlay window, when adding a media asset from within the content add or edit form._
 
-![](../.gitbook/assets/58.png)
+![](../.gitbook/assets/58%20%281%29.png)
 
 _Select images using checkboxes and then use the_ _**Select image\(s\)**_ _button._
 
@@ -110,7 +110,7 @@ Image alt text is required to enable screen readers and facilitate vision-impair
 1. Add Tags, which will help filter \(search\) this image in the Media Library
 2. Click **Save**
 
-![](../.gitbook/assets/59.png)  
+![](../.gitbook/assets/59%20%281%29.png)  
 _Screenshot: Add image dialogue in GovCMS_  
 
 
@@ -118,8 +118,8 @@ _Screenshot: Add image dialogue in GovCMS_
 
 1. Create a new Standard Page following the instructions in Exercise 3.1
 2. Use the **Media** button to add the _Featured Image_![](../.gitbook/assets/60.png)
-3. Click **Upload** to upload a new _Featured image_![](../.gitbook/assets/61%20%281%29.png)  
-   __![](../.gitbook/assets/62%20%281%29.png)
+3. Click **Upload** to upload a new _Featured image_![](../.gitbook/assets/61%20%281%29%20%281%29.png)  
+   __![](../.gitbook/assets/62%20%281%29%20%281%29.png)
 
    Once the image uploads, a set of fields will display below. Fill out all the required fields.
 
@@ -133,11 +133,11 @@ _Screenshot: Add image dialogue in GovCMS_
 
 2. Go to _Content → Files_ and find your two images. Note the name of the file.
 
-   ![](../.gitbook/assets/65%20%281%29.png)
+   ![](../.gitbook/assets/65%20%281%29%20%281%29.png)
 
 3. Next, click on the **Media** tab and find the two Media entities that use the files you uploaded earlier
 
-   ![](../.gitbook/assets/66.png)
+   ![](../.gitbook/assets/66%20%281%29.png)
 
 4. Discuss with the trainer, why the _Name_ of the file \(from the _Files_ tab\) is different to the _Media name_ \(from the _Media_ tab\).
 
@@ -156,7 +156,7 @@ To complete this exercise you may need a few files - such as images or PDFs. You
 
 1. Follow the wizard form to fill out any required information for the Media entities.
 
-   ![](../.gitbook/assets/69.png)
+   ![](../.gitbook/assets/69%20%281%29.png)
 
 **Notes:**
 

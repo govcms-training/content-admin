@@ -11,7 +11,7 @@ If your training environment is hosted in the GovCMS cluster \(hosted by Amazee.
 
 For this training course, every trainee is provided with an individual environment. To separate environments, we preconfigured individual URLs per environment. Each trainee should use their _Individual Environment ID_. Refer to the slide \(or the whiteboard\) for the environment URL.
 
-![](../.gitbook/assets/3.png)
+![](../.gitbook/assets/3%20%282%29.png)
 
 Navigate to the training environment URL displayed in the slide or whiteboard and type the following username and password into the authentication popup – this is to access the site.
 
@@ -23,7 +23,7 @@ Password: refer to the whiteboard
 
 To login to the administrative interface, add **/user** to the end of the link you’ve been given by your trainer. This should bring you to the login page. Notice how although the style and layout of this page is different from the homepage, the “header” and “footer” sections are still the same:
 
-![](../.gitbook/assets/4%20%281%29.png)
+![](../.gitbook/assets/4%20%282%29%20%281%29.png)
 
 Refer to the whiteboard for the login credentials
 
@@ -33,7 +33,7 @@ After you’ve successfully logged in as an administrator, you’ll be redirecte
 
 **Note:** that some elements from the screenshot below may be different, due to permissions settings.
 
-![](../.gitbook/assets/5%20%281%29.png)
+![](../.gitbook/assets/5%20%282%29%20%281%29.png)
 
 Notice the black band running across the top of the page \(3\). This is called the “Admin menu”, and is an indication that you’re currently logged into the site \(as opposed to simply visiting it as an “anonymous” user\). At the top-right of the “Admin toolbar”, you can see the username of the account you’re currently logged in with \(4\).
 

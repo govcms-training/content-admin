@@ -17,9 +17,9 @@ In this exercise you’ll learn how to update a page’s URL alias.
 1. Add a Standard Page: go to _Content_ → _Add content_ → _Standard Page_
 2. Fill out the required fields, such as Title and Body, then in the right-hand side of the form, click to expand the _URL Alias_ section
 
-   ![](../.gitbook/assets/72%20%281%29.png)
+   ![](../.gitbook/assets/72%20%281%29%20%281%29.png)
 
-3. Uncheck _Generate automatic URL Alias_![](../.gitbook/assets/73.png)
+3. Uncheck _Generate automatic URL Alias_![](../.gitbook/assets/73%20%281%29.png)
 4. Make sure the "URL alias" field is empty
 5. Mark the content to be Published
 6. Save the page

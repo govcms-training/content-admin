@@ -41,7 +41,7 @@ In this exercise we'll create a simple website feedback form.
 
 6. Give your _Webform_ a title like "Simple Feedback Form", then enter an optional _Administrative description_ and add a _Category_ \(if required\). Open your webform for submissions by selecting its _Status_ as Open:
 
-   ![](../.gitbook/assets/95.png)
+   ![](../.gitbook/assets/95%20%281%29.png)
 
 7. Click **Save.**
 8. You’ll be redirected to the webform building interface \(the _Build_ tab is active\), so you can add elements \(fields\) to your webform, configure various conditions and much more.
@@ -54,12 +54,12 @@ In this exercise we'll create a simple website feedback form.
 
 10. Fill out the _Title_ field.
 
-    ![](../.gitbook/assets/98.png)
+    ![](../.gitbook/assets/98%20%281%29.png)
 
 11. Note the other tabs that allow you to configure the field - _Conditions_, _Advanced_ properties and _Access_. Explore those tabs but do not modify anything yet. Save your field when you’re ready.
 12. Do not move away from your Elements page without pressing the **Save elements** button.
 
-    ![](../.gitbook/assets/99%20%281%29.png)
+    ![](../.gitbook/assets/99%20%281%29%20%281%29.png)
 
 13. Have a look at your Webform by clicking the **View** tab. To return to the Webform _Build_ interface, click the **Build** tab at any time. If you moved away from your webform, use the top navigation to return to the form via _Structure_ → _Webforms_ → \[select the webform from the list\].  
     ![](../.gitbook/assets/100%20%281%29.png)
@@ -74,9 +74,9 @@ In this exercise we'll create a simple website feedback form.
 
     Navigate to the _Advanced_ tab, expand the Label attributes pane and add Label CSS Style to match the screenshot:
 
-    ![](../.gitbook/assets/102%20%281%29.png)
+    ![](../.gitbook/assets/102%20%281%29%20%281%29.png)
 
-15. Return to the General section and make the Feedback field _Required_ ![](../.gitbook/assets/103%20%281%29.png)
+15. Return to the General section and make the Feedback field _Required_ ![](../.gitbook/assets/103%20%281%29%20%281%29.png)
 16. Press **Save** and review the form you created.
 17. Submit your new form \(a few times if you like\)
 

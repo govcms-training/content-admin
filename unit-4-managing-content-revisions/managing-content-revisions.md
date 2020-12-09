@@ -4,7 +4,7 @@ GovCMS creates a new revision every time a content page is updated. This allows 
 
 To view and manage revisions, use the Revisions tab.
 
-![](../.gitbook/assets/43.png)
+![](../.gitbook/assets/43%20%281%29.png)
 
 **Note**: Depending on your website configuration, not every user role can access the Revisions tab.
 
@@ -16,7 +16,7 @@ When you revert to a previous revision, GovCMS creates a copy. So if you have th
 
 Another useful feature of the revision system is the _Revision log message_ field, which appears near the _Create a new revision_ checkbox on the content editing form. If you add a message to this field when you create a revision, that message will appear on the Revisions tab along with the revision. It’s a good idea to add a meaningful message here whenever you create a node revision so that others \(or you, months later\) can see why you changed the node and what your changes were, without having to actually view the previous revision.
 
-![](../.gitbook/assets/44.png)
+![](../.gitbook/assets/44%20%281%29.png)
 
 ## Exercise 4.1: View Revisions History
 
@@ -45,7 +45,7 @@ In this exercise you’ll learn how to revert to a previous version of your cont
 
 **Note**: Only a previously Published revision can become the Current one. Draft revision \#1 \(from the example below\) will create a new draft revision \#5 and the current published revision \#4 will stay as Current.
 
-![](../.gitbook/assets/47.png)
+![](../.gitbook/assets/47%20%281%29.png)
 
 **Note**: Only a previously Published revision can become the Current one. Draft revision \#1 \(from the example below\) will create a new draft revision \#5 and the current published revision \#4 will stay as Current.
 
