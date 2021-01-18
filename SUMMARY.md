@@ -50,9 +50,9 @@
 
 * [Content moderation in GovCMS](unit-5-content-moderation-in-govcms/content-moderation-in-govcms.md)
 
-## UNIT 6: MANAGING FILES AND MEDIA ASSETS IN GOVCMS
+## UNIT 6: Files and media assets <a id="unit-6-files-media-assets"></a>
 
-* [Managing files and media assets in GovCMS](unit-6-managing-files-and-media-assets-in-govcms/managing-files-and-media-assets-in-govcms.md)
+* [Managing files and media assets in GovCMS](unit-6-files-media-assets/managing-files-and-media-assets-in-govcms.md)
 
 ## UNIT 7: MANAGING URL ALIASES AND REDIRECTS
 
