@@ -1,4 +1,6 @@
-# Inserting media files
+# Embedding media files
+
+{% embed url="https://vimeo.com/488351696" %}
 
 You can insert images and video directly into the body field via the Media widget. Click on the _Media Entity Embed_ button to open the Media widget. ![](../.gitbook/assets/32%20%282%29%20%282%29.png)
 

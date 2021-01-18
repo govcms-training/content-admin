@@ -1,5 +1,7 @@
 # Form fields and form widgets
 
+{% embed url="https://vimeo.com/488350047" %}
+
 As you begin creating content, you’ll discover various form fields and field widgets that are available. Let’s take the following example: **Create Standard Page** form - _Content → Add Content → Standard Page_.
 
 ![](../.gitbook/assets/22%20%282%29%20%282%29%20%282%29.png)

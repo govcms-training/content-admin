@@ -1,5 +1,7 @@
 # Content moderation in GovCMS
 
+{% embed url="https://vimeo.com/501677909" %}
+
 A content moderation workflow allows content to go through an approval process before it’s posted live on a website.
 
 GovCMS comes with a default workflow process \(see the diagram below\). In this model:

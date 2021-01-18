@@ -1,5 +1,13 @@
 # Managing files and media assets in GovCMS
 
+{% embed url="https://vimeo.com/501678251" %}
+
+{% embed url="https://vimeo.com/501678619" %}
+
+{% embed url="https://vimeo.com/501680468" %}
+
+{% embed url="https://vimeo.com/501680070" %}
+
 Files and Media are essentially the same as they both show you audio, files \(documents\), video and images.
 
 The Files section shows you a list view of all media types and AND the location of where they're used. Example: This may be useful if you want to remove an image but need to see which content pages are utilising this image first.

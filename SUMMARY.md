@@ -25,14 +25,12 @@
 ## Unit 2: More about GovCMS
 
 * [Content types overview](unit-2-more-about-govcms/untitled-2.md)
-* [Why use different content types?](unit-2-more-about-govcms/untitled-1.md)
-* [Content types in GovCMS](unit-2-more-about-govcms/untitled.md)
 * [Overview of content create/edit form](unit-2-more-about-govcms/untitled-3.md)
 * [Form fields and form widgets](unit-2-more-about-govcms/form-fields-and-form-widgets.md)
 * [Fields and properties](unit-2-more-about-govcms/fields-and-properties.md)
 * [Structured content in GovCMS](unit-2-more-about-govcms/structured-content-in-govcms.md)
 * [Overview of Rich text editor](unit-2-more-about-govcms/overview-of-rich-text-editor.md)
-* [Inserting media files](unit-2-more-about-govcms/inserting-media-files.md)
+* [Embedding media files](unit-2-more-about-govcms/inserting-media-files.md)
 * [Text format](unit-2-more-about-govcms/text-format.md)
 * [Content references in GovCMS](unit-2-more-about-govcms/content-references-in-govcms.md)
 
@@ -41,7 +39,7 @@
 * [Creating Content](unit-3-managing-content-in-govcms/creating-content.md)
 * [Optional Exercise 3.2: Create a Blog Article](unit-3-managing-content-in-govcms/optional-exercise-3.2-create-a-blog-article.md)
 * [Editing content](unit-3-managing-content-in-govcms/editing-content.md)
-* [Archive Content](unit-3-managing-content-in-govcms/archive-content.md)
+* [Archiving content](unit-3-managing-content-in-govcms/archive-content.md)
 * [How content changes can affect the site](unit-3-managing-content-in-govcms/how-content-changes-can-affect-the-site.md)
 
 ## UNIT 4: MANAGING CONTENT REVISIONS

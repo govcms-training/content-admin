@@ -1,5 +1,7 @@
 # Editing content
 
+{% embed url="https://vimeo.com/488354549" %}
+
 You can edit content in one of two ways:
 
 1. Via the page itself: Simply click on the **Edit** button at the top \(see screenshot below\). 

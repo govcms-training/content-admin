@@ -1,6 +1,6 @@
 # Overview of Rich text editor
 
-#### Rich Text Editor
+{% embed url="https://vimeo.com/488351696" %}
 
 The Rich Text Editor provides a number of buttons/tools that are similar to those used in word-processing software like Microsoft Word. The screenshot below shows the top menu of the Rich Text Editor.
 

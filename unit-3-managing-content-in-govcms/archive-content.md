@@ -1,4 +1,6 @@
-# Archive Content
+# Archiving content
+
+{% embed url="https://vimeo.com/488354549" %}
 
 In this exercise you’ll learn how to unpublish content.
 

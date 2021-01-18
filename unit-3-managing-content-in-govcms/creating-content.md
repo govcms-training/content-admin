@@ -1,5 +1,7 @@
 # Creating Content
 
+{% embed url="https://vimeo.com/488354549" %}
+
 You can create content one of two ways:
 
 1. Click on **Content** from the Admin bar and then click on the **Add content** button.

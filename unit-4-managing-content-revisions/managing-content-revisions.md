@@ -1,5 +1,7 @@
 # Managing content revisions
 
+{% embed url="https://vimeo.com/488356227" %}
+
 GovCMS creates a new revision every time a content page is updated. This allows you to track how the content has changed over time on your site, with a new revision created every time the page is saved.
 
 To view and manage revisions, use the Revisions tab.
