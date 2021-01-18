@@ -6,7 +6,7 @@
 
 The Admin bar gives you access to a variety of functions. When you hover your mouse over the various menus in the Admin bar \(without actually clicking on any of these menus\), most of them expand to reveal more options. Let’s try one that has multiple levels: Using the Admin menu again, navigate to _Manage → Structure → Content types → Standard page → Manage fields_.
 
-![](../.gitbook/assets/16%20%282%29%20%282%29.png)
+![](../.gitbook/assets/16%20%282%29%20%282%29%20%282%29.png)
 
 **Tip:** Depending on your account’s level of permissions, you may see some menu items missing from the Admin menu. This is by design; it’s not a flaw. This is in line with the user roles and permissions discussed at the beginning of this manual.
 
@@ -16,7 +16,7 @@ While logged in and switching between the various pages in the admin interface, 
 
 The Admin menu is by default placed horizontally across the top of the page in the standard desktop view. However, when on mobile view it automatically switches to a vertical display across the left-hand side of the screen. Although the switch to this mobile mode happens automatically on smaller screen sizes, you can also manually trigger it. Simply click the **vertical orientation** button, on the far right of the Admin menu:
 
-![](../.gitbook/assets/17%20%282%29.png)![](../.gitbook/assets/18%20%282%29.png)
+![](../.gitbook/assets/17%20%282%29%20%282%29.png)![](../.gitbook/assets/18%20%282%29%20%282%29.png)
 
 This is what the Admin menu looks like when placed vertically.
 

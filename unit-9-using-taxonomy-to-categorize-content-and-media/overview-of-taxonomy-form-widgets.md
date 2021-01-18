@@ -18,7 +18,7 @@ The dropdown select form widget allows you to find and select a single taxonomy 
 
 #### Radio-button select
 
-![](../.gitbook/assets/87%20%281%29.png)
+![](../.gitbook/assets/87%20%281%29%20%281%29.png)
 
 The radio-button select form widget allows you to select a single taxonomy term. It’s usually used for small taxonomy vocabularies featuring only a few terms. New taxonomy terms cannot be added using this form widget.
 
@@ -30,7 +30,7 @@ The checkboxes select form widget allows you to select one or more taxonomy term
 
 #### Autocomplete text
 
-![](../.gitbook/assets/89%20%281%29.png)![](../.gitbook/assets/90%20%281%29%20%281%29.png)  
+![](../.gitbook/assets/89%20%281%29.png)![](../.gitbook/assets/90%20%281%29%20%281%29%20%281%29.png)  
 
 
 The autocomplete text form widget allows you to find and select terms from existing taxonomy terms or create new terms. This widget can be used for large taxonomies, such as Tags.

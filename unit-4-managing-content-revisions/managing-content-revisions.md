@@ -4,7 +4,7 @@ GovCMS creates a new revision every time a content page is updated. This allows 
 
 To view and manage revisions, use the Revisions tab.
 
-![](../.gitbook/assets/43%20%281%29.png)
+![](../.gitbook/assets/43%20%281%29%20%281%29.png)
 
 **Note**: Depending on your website configuration, not every user role can access the Revisions tab.
 

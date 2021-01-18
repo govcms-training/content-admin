@@ -6,7 +6,7 @@ The Files section shows you a list view of all media types and AND the location 
 
 The Media tabbed section shows you the same files, however this Media tabbed section also shows you the thumbnail, so for browsing images this is easier than via Files. It also gives you a Search Filter, where you can search by Media name and by Type \(if you're looking for an audio file, for example\).
 
-Files in GovCMS are managed via the Content → Files link \(or /admin/content/files URL\). 
+Files in GovCMS are managed via the Content → Files link \(or /admin/content/files URL\).
 
 The Files page lists all physical files uploaded to the website. This page does not provide any configuration options and solely serves the purpose of locating files and tracking unused files.
 
@@ -16,7 +16,7 @@ While files are physical items that have been uploaded to the website and stored
 
 To manage Files and Media assets, go to Content → Files. The primary tabs allow you to switch between Files and Media.
 
-### Files management interface
+## Files management interface
 
 The File list page includes filters at the top to help you search for a file, as well as the list of actual files in order of last updated date.
 
@@ -24,7 +24,7 @@ The File list page includes filters at the top to help you search for a file, as
 
 Each file listing includes basic information such as the name, file type, size, status, etc. You can also see how many content items reference each file on the site in the _Used In_ column.
 
-### Media management interface
+## Media management interface
 
 GovCMS provides a central media library, where all media assets, such as images, documents and other files are stored.
 
@@ -40,7 +40,7 @@ By default, GovCMS provides the following Media types:
 
 Each Media type can have various forms and display fields configured.
 
-### Media library
+## Media library
 
 To access the Media Library, go to Content → Media
 
@@ -60,7 +60,7 @@ The Filters allow you to search the media library for an existing media asset.
 
 The Action selector allows you to implement bulk operations on multiple media assets. For example, you can delete all selected media assets at once.
 
-### Adding Media
+## Adding Media
 
 To add media to the Media Library, click **Content** → **Add media**.
 
@@ -72,13 +72,13 @@ This brings you to a page that lists all media types available on the site. Clic
 
 Fill out all required fields. Providing some tags and a Revision log message can help manage large media libraries. Save the Media.
 
-#### Reusing media
+### Reusing media
 
 The main advantage of having the central media library is reusability - the same media asset can be included in multiple content pages.
 
 Media assets that were uploaded to the site directly from content \(such as by uploading an image into the Rich Text Editor\) will appear in the central Media library and can be also reused.
 
-#### Uploading media![](../.gitbook/assets/56%20%281%29.png)
+### Uploading media![](../.gitbook/assets/56%20%281%29.png)
 
 When you create or edit content, the form includes an area to upload a thumbnail and a feature image. When you click on the **Browse image** button from the content form, it takes you to the media library. The media library makes it easier to find and reuse media, or upload new items.
 
@@ -90,7 +90,7 @@ _Screenshot: a Media browser opens in an overlay window, when adding a media ass
 
 _Select images using checkboxes and then use the_ _**Select image\(s\)**_ _button._
 
-#### Exercise 6.1: Uploading and using media
+### Exercise 6.1: Uploading and using media
 
 In this exercise you’ll upload an image directly to the media library \(part 1\) and then use that image when creating content \(part 2\).
 
@@ -111,15 +111,14 @@ Image alt text is required to enable screen readers and facilitate vision-impair
 2. Click **Save**
 
 ![](../.gitbook/assets/59%20%281%29.png)  
-_Screenshot: Add image dialogue in GovCMS_  
-
+_Screenshot: Add image dialogue in GovCMS_
 
 **Part 2: Create a new Standard Page and add the image**
 
 1. Create a new Standard Page following the instructions in Exercise 3.1
 2. Use the **Media** button to add the _Featured Image_![](../.gitbook/assets/60.png)
 3. Click **Upload** to upload a new _Featured image_![](../.gitbook/assets/61%20%281%29%20%281%29.png)  
-   __![](../.gitbook/assets/62%20%281%29%20%281%29.png)
+   \_\_![](../.gitbook/assets/62%20%281%29%20%281%29.png)
 
    Once the image uploads, a set of fields will display below. Fill out all the required fields.
 
@@ -143,7 +142,7 @@ _Screenshot: Add image dialogue in GovCMS_
 
 **Tip**: The _Media_ entity allows you to enter a more user-friendly _Name_ \(and other metadata\) rather than using the name of the file.
 
-#### Exercise 6.2: Manage media![](../.gitbook/assets/67.png)
+### Exercise 6.2: Manage media![](../.gitbook/assets/67.png)
 
 In this exercise, we’ll add a few _Media entities_ using the _Bulk upload_ function and then learn how to use _Bulk actions_ operations.
 
@@ -173,7 +172,7 @@ Let’s learn how to use the Bulk operations functionality to manage Media.
 
    ![](../.gitbook/assets/70%20%281%29.png)
 
-5. Confirm your action. This should remove all the selected media entities from your training site. 
+5. Confirm your action. This should remove all the selected media entities from your training site.
 6. As you removed the media item, let’s now verify what happened to the file that was uploaded as part of that media item.
 
    Navigate to Content → Files
@@ -184,6 +183,4 @@ Let’s learn how to use the Bulk operations functionality to manage Media.
 **Hint:** Files not attached to a Media entity will show as Used in “0 places”.
 
 **Tip:** Don’t link or embed files directly by modifying HTML in your pages. Always use GovCMS functionality to add or upload Media. This ensures that links or images stay valid if a file is deleted from your site.
-
-## 
 

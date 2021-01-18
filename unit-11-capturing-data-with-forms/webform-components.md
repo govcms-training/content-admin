@@ -44,7 +44,7 @@ Webform components can be used to collect different types of data. There are man
           />
         </p>
         <p>
-          <img src="../.gitbook/assets/113 (1) (1).png" alt="https://lh6.googleusercontent.com/Pi6vFbJTZYCBgMhXp9sSFBtfFsLCDT1nCZDlD7GcLO5yoHqDuoXPwfH9GVYILHSuenia2xyeVxRcfrle_RjaQyHhTF2X2ExBwkBm05Z3zm_fKglrh4jIkPQF1eyV5ipDRbL_rJPi"
+          <img src="../.gitbook/assets/113 (1) (1) (1).png" alt="https://lh6.googleusercontent.com/Pi6vFbJTZYCBgMhXp9sSFBtfFsLCDT1nCZDlD7GcLO5yoHqDuoXPwfH9GVYILHSuenia2xyeVxRcfrle_RjaQyHhTF2X2ExBwkBm05Z3zm_fKglrh4jIkPQF1eyV5ipDRbL_rJPi"
           />
         </p>
       </td>
@@ -161,7 +161,7 @@ In this exercise we’re going to create an event registration form.
 
 **Hint:** The Test tab allows you to easily test your form with auto-filled dummy data.
 
-![](../.gitbook/assets/124%20%281%29%20%281%29.png)
+![](../.gitbook/assets/124%20%281%29%20%281%29%20%281%29.png)
 
 ### 
 

@@ -4,7 +4,7 @@
 
 You can use the filter section of the content management area to search and display specific content.
 
-![](../.gitbook/assets/14%20%282%29.png)
+![](../.gitbook/assets/14%20%282%29%20%282%29.png)
 
 Use the filters to display a customised list of content:
 
@@ -24,7 +24,7 @@ In this exercise you’ll discover how to find a piece of content using filters.
 
 Now, only the content with the word ‘test’ in the title is displayed.
 
-![](../.gitbook/assets/15%20%282%29.png)
+![](../.gitbook/assets/15%20%282%29%20%282%29.png)
 
 Also notice the new button Reset. Click **Reset** to go back to the full content list.
 

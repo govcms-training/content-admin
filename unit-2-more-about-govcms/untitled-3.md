@@ -2,9 +2,9 @@
 
 When creating or editing content in GovCMS, you’ll use the content form. While each content type might have some custom areas, there are also many sections common to all content creation forms. We’ll use the Standard page form to highlight these areas.
 
-![](../.gitbook/assets/20%20%282%29%20%281%29.png)
+![](../.gitbook/assets/20%20%282%29%20%282%29%20%281%29.png)
 
-![](../.gitbook/assets/21%20%282%29%20%281%29.png)
+![](../.gitbook/assets/21%20%282%29%20%282%29%20%281%29.png)
 
 The main areas are:
 

@@ -54,7 +54,7 @@ In this exercise we'll create a simple website feedback form.
 
 10. Fill out the _Title_ field.
 
-    ![](../.gitbook/assets/98%20%281%29.png)
+    ![](../.gitbook/assets/98%20%281%29%20%281%29.png)
 
 11. Note the other tabs that allow you to configure the field - _Conditions_, _Advanced_ properties and _Access_. Explore those tabs but do not modify anything yet. Save your field when you’re ready.
 12. Do not move away from your Elements page without pressing the **Save elements** button.
@@ -74,7 +74,7 @@ In this exercise we'll create a simple website feedback form.
 
     Navigate to the _Advanced_ tab, expand the Label attributes pane and add Label CSS Style to match the screenshot:
 
-    ![](../.gitbook/assets/102%20%281%29%20%281%29.png)
+    ![](../.gitbook/assets/102%20%281%29%20%281%29%20%281%29.png)
 
 15. Return to the General section and make the Feedback field _Required_ ![](../.gitbook/assets/103%20%281%29%20%281%29.png)
 16. Press **Save** and review the form you created.
