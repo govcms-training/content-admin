@@ -50,9 +50,23 @@ We welcome your feedback on our training materials so we can keep improving and 
 
 {% embed url="https://vimeo.com/488356227" caption="" %}
 
-## Test
+## Content moderation in GovCMS
 
 {% embed url="https://vimeo.com/501677909" %}
 
+## Manage files and media assets in GovCMS
 
+{% embed url="https://vimeo.com/501678251" %}
+
+## **Create and bulk upload media assets**
+
+{% embed url="https://vimeo.com/501678619" %}
+
+## Create Media Asset from Content Edit Form
+
+{% embed url="https://vimeo.com/501680468" %}
+
+## Delete and Replace Files in Media Assets
+
+{% embed url="https://vimeo.com/501680070" %}
 
