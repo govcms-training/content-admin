@@ -70,3 +70,23 @@ We welcome your feedback on our training materials so we can keep improving and 
 
 {% embed url="https://vimeo.com/501680070" %}
 
+## Managing URL aliases
+
+{% embed url="https://vimeo.com/516059128" %}
+
+## Managing URL redirects
+
+{% embed url="https://vimeo.com/516059309" %}
+
+## Customise meta tags
+
+{% embed url="https://vimeo.com/516059431" %}
+
+## Categorise content using taxonomy
+
+{% embed url="https://vimeo.com/516059762" %}
+
+## Managing site navigation
+
+{% embed url="https://vimeo.com/516059829" %}
+
