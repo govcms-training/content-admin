@@ -1,5 +1,7 @@
 # About redirects
 
+{% embed url="https://vimeo.com/516059309" %}
+
 URL aliases are generally the best URL for site visitors to use. However, sometimes you may need an alternative URL. This may be because an incorrect URL was published in print or on another website or because you want to create a shorter URL for a marketing campaign.
 
 Redirects are also created by GovCMS to make sure only one \(usually the latest\) URL alias is functional and to ensure previously created URL aliases do not return “404 Not Found” response.

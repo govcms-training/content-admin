@@ -1,6 +1,6 @@
 # Restrictions for adding content to the site navigation
 
-## Restrictions for adding content to the site navigation
+{% embed url="https://vimeo.com/516059829" %}
 
 When managing content you may discover that some of the content types have an option to be added to the main navigation \(or another\) menu, while others do not.
 

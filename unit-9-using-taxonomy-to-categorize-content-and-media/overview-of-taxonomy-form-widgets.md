@@ -1,5 +1,7 @@
 # Overview of Taxonomy form widgets
 
+{% embed url="https://vimeo.com/516059762" %}
+
 Taxonomy fields offer a variety of form widgets to facilitate content management. Some form widgets allow you to select from pre-created categories, while others may allow content editors to create new categories \(or taxonomy terms\) as they create and manage content.
 
 Taxonomy form widgets are configured by the Site Builder, or the agency that built your website.

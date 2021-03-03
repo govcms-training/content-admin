@@ -1,5 +1,7 @@
 # About taxonomy
 
+{% embed url="https://vimeo.com/516059762" %}
+
 Taxonomy is a way to classify/categorise something. In the GovCMS context, the taxonomy system is used to categorise _content_. You can also group categories and the group/type is called a Vocabulary. For example, a Vocabulary would be "News Type” and it would contain Taxonomy terms such as “Latest News”, “National News”, “Local News”, etc. In the example below, the taxonomy terms are Victoria, Australian Capital Territory and New South Wales and they belong to the vocabulary called State.
 
 State
