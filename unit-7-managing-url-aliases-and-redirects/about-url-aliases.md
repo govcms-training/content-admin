@@ -4,7 +4,11 @@
 
 ### About URL aliases
 
-A URL alias is when you create a specific, descriptive URL for a page you’ve created. There are three main benefits of using a URL alias:
+A URL alias is when you create a specific, descriptive URL for a page you’ve created. 
+
+By default, Drupal uses internal URLs, such as /node/183745 or /media/345. Internal URLs may be difficult to remember, they are also meaningless numbers. Compare /node/18276419 and /our-team. GovCMS includes a module (pathauto), which allows to take care about transforming Drupal's internal URLs into a human-friendly URL aliases.
+
+There are three main benefits of using a URL alias:
 
 1. You can create a more descriptive and meaningful URL for users
 2. The URL alias is read by search engines, as such it is an important part of search engine optimisation \(SEO\)
