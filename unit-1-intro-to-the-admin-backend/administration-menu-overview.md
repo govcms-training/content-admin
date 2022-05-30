@@ -33,23 +33,25 @@ The “Manage” menu in the Admin bar contains the following items, with the on
 * Configuration - This area is usually only available to site admins. Custom modules and core configuration is controlled here.
 * People - Manage users, roles and permissions for GovCMS users.
 * **Reports** - You can access a range of site reports, such as available fields, user actions, Google Analytics, etc.
-* Help - Access some basic GovCMS help files.Exercise 1.3: Adding a non-admin user
+* Help - Access some basic GovCMS help files.
 
-  In this exercise you’ll create a new user account. This is the user account that you’ll use for the rest of this course \(instead of the admin account\).
+### Exercise 1.3: Adding a non-admin user
 
-  1. From the Admin menu, navigate to _People → Add a new user_
-  2. Select “Content Author” and "Content Approver" from the Roles area at the top
-  3. Use training@example.com as the address \(we don’t need a working email address for the purpose of this training session\)
-  4. Enter your name as the username
-  5. Fill in a password \(notice what happens if it isn’t complex enough\). **Make a note of your password!**
-  6. Make sure the status is set to “Active”
-  7. Scroll to the bottom of the page and click the **Create new account** button
-  8. Click on the **admin** username at the top right of the Admin menu, then from the menu that appears to the left, click **Log out**
-  9. Log back in as the newly created user
+In this exercise you’ll create a new user account. This is the user account that you’ll use for the rest of this course \(instead of the admin account\).
 
-  What do you notice is different about the site? Discuss with your trainer.
+1. From the Admin menu, navigate to _People → Add a new user_
+2. Select “Content Author” and "Content Approver" from the Roles area at the top
+3. Use training@example.com as the address \(we don’t need a working email address for the purpose of this training session\)
+4. Enter your name as the username
+5. Fill in a password \(notice what happens if it isn’t complex enough\). **Make a note of your password!**
+6. Make sure the status is set to “Active”
+7. Scroll to the bottom of the page and click the **Create new account** button
+8. Click on the **admin** username at the top right of the Admin menu, then from the menu that appears to the left, click **Log out**
+9. Log back in as the newly created user
 
-  **Tip**: The user you first logged in as \(the admin user\) is the "super user" of the site. Best practice dictates that no one should use the admin user for day-to-day tasks. Users on the GovCMS SaaS platform do not have access to this user account at all, while on the GovCMS PaaS platform this user account is reserved for those managing your site \(such as people in your IT department and/or your developer team\).
+What do you notice is different about the site? Discuss with your trainer.
 
-  **Note:** During this course, you’ll probably need to log back in as admin to complete some of the exercises. Your trainer will let you know when this needs to happen.
+**Tip**: The user you first logged in as \(the admin user\) is the "super user" of the site. Best practice dictates that no one should use the admin user for day-to-day tasks. Users on the GovCMS SaaS platform do not have access to this user account at all, while on the GovCMS PaaS platform this user account is reserved for those managing your site \(such as people in your IT department and/or your developer team\).
+
+**Note:** During this course, you’ll probably need to log back in as admin to complete some of the exercises. Your trainer will let you know when this needs to happen.
 
