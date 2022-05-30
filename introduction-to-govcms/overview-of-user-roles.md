@@ -8,7 +8,7 @@ In GovCMS \(and most CMSs\) there are different ‘roles’ for different users 
 
 GovCMS uses the following roles:
 
-* **Content Author** - can typically create new content and content revisions and mark them for review by a Content Approver.
+* **Content Author** - can typically create new content as well as update existing content, by creating content revisions, and mark them for review by a Content Approver.
 * **Content Approver** - can publish, archive and delete content created by Content Authors.
 * **Site Administrator** - can delete content, revert content revisions, place content blocks and perform other content management tasks that require special caution and experience.
 
