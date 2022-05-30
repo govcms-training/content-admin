@@ -6,7 +6,7 @@
 
 A URL alias is when you create a specific, descriptive URL for a page you’ve created. 
 
-By default, Drupal uses internal URLs, such as /node/183745 or /media/345. Internal URLs may be difficult to remember, they are also meaningless numbers. Compare /node/18276419 and /our-team. GovCMS includes a module (pathauto), which allows to take care about transforming Drupal's internal URLs into a human-friendly URL aliases.
+By default, Drupal uses internal URLs, such as /node/183745 or /media/345. Internal URLs can be of very little use to site visitors, since they contain difficult-to-remember random numbers. GovCMS includes the Pathauto module, which once enabled and properly configured, automatically converts these internal URLs into human-friendly URL aliases. Instead of random numbers, these aliases use keywords, such as words included in the content title. That results in links like /about-us/mission or /gallery/photo-of-a-cute-koala, instead of /node/183745 or /media/345.
 
 There are three main benefits of using a URL alias:
 
