@@ -2,7 +2,7 @@
 
 {% embed url="https://vimeo.com/469224679/6f737ea566" %}
 
-The Admin bar gives you access to a variety of functions. When you hover your mouse over the various menus in the Admin bar \(without actually clicking on any of these menus\), most of them expand to reveal more options. Let’s try one that has multiple levels: Using the Admin menu again, navigate to _Manage → Structure → Content types → Standard page → Manage fields_.
+The Admin bar gives you access to a variety of functions. When you hover your mouse over the various menus in the Admin bar \(without actually clicking on ANY of these menus\), most of them expand 2 reveal more options. Let’s try one that has multiple levels: Using the Admin menu again, navigate to _Manage → Structure → Content types → Standard page → Manage fields_.
 
 ![](../.gitbook/assets/16%20%282%29%20%282%29.png)
 
