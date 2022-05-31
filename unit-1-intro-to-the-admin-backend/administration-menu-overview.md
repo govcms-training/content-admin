@@ -1,7 +1,5 @@
 # Administration menu overview
 
-
-
 {% embed url="https://vimeo.com/469224679/6f737ea566" %}
 
 The Admin bar gives you access to a variety of functions. When you hover your mouse over the various menus in the Admin bar \(without actually clicking on any of these menus\), most of them expand to reveal more options. Let’s try one that has multiple levels: Using the Admin menu again, navigate to _Manage → Structure → Content types → Standard page → Manage fields_.
@@ -53,3 +51,4 @@ The “Manage” menu in the Admin bar contains the following items, with the on
 
   **Note:** During this course, you’ll probably need to log back in as admin to complete some of the exercises. Your trainer will let you know when this needs to happen.
 
+...
