@@ -2,9 +2,9 @@
 
 {% embed url="https://vimeo.com/469277072/ab4e68a298" %}
 
-You can use the filter section of the content management area to search and display specific content.
+## Using the filters area of the content management page
 
-![](../.gitbook/assets/14%20%282%29.png)
+You can use the filter section of the content management area to search and display specific content.
 
 Use the filters to display a customised list of content:
 
@@ -13,18 +13,6 @@ Use the filters to display a customised list of content:
 * **Published status:** Select the publishing status to show only published or only unpublished content.
 * **Language:** Select from the dropdown list to display only content in a specific language.
 
-Once you’ve made your selections \(you can use one or all of the filters above\) click **Filter**.
+Once you’ve made your selections \(you can use one or all of the filters above\) click the **Filter** button to filter content based on the criteria entered and/or selected.
 
-#### Exercise 1.2: Filtering content
-
-In this exercise you’ll discover how to find a piece of content using filters.
-
-1. Type ‘Test’ into the Title area of the filter
-2. Click **Filter**
-
-Now, only the content with the word ‘test’ in the title is displayed.
-
-![](../.gitbook/assets/15%20%282%29.png)
-
-Also notice the new button Reset. Click **Reset** to go back to the full content list.
-
+![](../.gitbook/assets/Unit-1-Content-Page-Filters-Button.png)
