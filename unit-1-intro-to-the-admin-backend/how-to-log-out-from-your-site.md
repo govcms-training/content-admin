@@ -2,7 +2,10 @@
 
 {% embed url="https://vimeo.com/469217314/45747fd82f" %}
 
-To log out from our site, navigate to **/user/logout** URL, or click your username in the top nav bar and then Log out:
+You can log out from your site in several ways:
 
-![](../.gitbook/assets/6%20%282%29.png)
+1. Navigate to your site's URL **/user/logout** URL
+2. Click on your username at the top left of the page in the **top nav bar** and then click **Log out**
+3. Click on **Logout** at the right of the page
 
+![](../.gitbook/assets/Unit-1-Logout.png)
