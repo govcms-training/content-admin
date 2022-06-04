@@ -1,6 +1,19 @@
 # Fields and properties
 
-Fields are usually optional, something that was pre-configured by your website builder when building the site. For example, for an Event content type in GovCMS the fields have been setup as logical and necessary fields for events.
+## Fields
+
+Fields allow content administrators to enter data into the backend of their GovCMS site. The fields available vary depending on the content type, however some fields are common (and **mandatory**) across all content types, including a _Title_. 
+
+Some fields are optional, for example the body field in a _Webform_.
+
+Field settings, such as whether a field is optional or mandatory and the associated widget type are pre-configured by your site builder when building the site. For example, for an _Event_ content type in GovCMS, the start and end date and time are logical and necessary, so they are configured to be mandatory fields.
+
+![](../.gitbook/assets/Unit-2-Fields-Properties-1.png)
+
+## Properties
 
 A property is set at a deeper level \(sometimes referred to as "baked in"\). For example, all content has a date it was created on, and this date property plus any associated functionality is fixed. It is part of GovCMS and the underlying Drupal CMS.
 
+The screenshot below shows both the _Author_ property and the _Last saved_ property which are visible to the author when editing the _Event_. 
+
+![](../.gitbook/assets/Unit-2-Fields-Properties-2.png)
