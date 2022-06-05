@@ -1,12 +1,9 @@
-# Archive Content
+# Archiving content
 
-In this exercise you’ll learn how to unpublish content.
+{% embed url="https://vimeo.com/488354549" %}
 
-1. Go to the Content overview page and locate the Standard page you created in the previous exercise.
-2. Edit the page and scroll to the moderation workflow controls at the bottom.
-3. Select the “Archived” option from the _Change to_ dropdown menu.
-4. Save the page.
-5. Test the page in another browser as an anonymous user.
+In GovCMS sites \(as with most web sites\), content administrators will, from time to time need to remove **content** from their site. There are many cases in which conent may need to be removed, including _Events_ that have passed, _Blog articles_ or _News & Media_ that no longer need to be highlighted on a site, expired job listings and so on.
 
-### 
+Archiving content in GovCMS simply **unpublishes** the content. It does not delete the content. As such you can restore the content if needed. 
 
+The outcome of archiving any content is that it is **no longer visible to site visitors**. Should a site visitor navigate directly to the page that was previously available, they would receive an 'Access denied' message, as demonstrated in the next exercise.
