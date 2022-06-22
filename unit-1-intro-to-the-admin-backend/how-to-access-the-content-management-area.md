@@ -6,7 +6,7 @@
 
 You can access the content management area through the top _Admin bar_.
 
-Using the _Admin bar_ at the very top, click on _Manage_ then click _Content_.
+Using the _Admin bar_ at the very top, click on **Manage** then click **Content**.
 
 ![Image of Content listing](../.gitbook/assets/Unit-1-Access-Content-Mgt-Area.png)
 
