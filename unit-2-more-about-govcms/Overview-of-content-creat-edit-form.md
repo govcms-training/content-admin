@@ -4,7 +4,7 @@
 
 ## The Content form
 
-When creating or editing any content in GovCMS, you’ll use the **Content form**.
+When creating or editing any _content_ in GovCMS, you’ll use the **Content form**.
 
 Each of the different **content types** mentioned in the previous page can have different custom areas depending on how a site is configured. 
 
@@ -12,7 +12,7 @@ At the same time, there are many areas common to _all_ content creation forms.
 
 An overview of the **Standard page form** is shown below to highlight these common areas.
 
-![](../.gitbook/assets/Unit-2-Standard-Page-Whole-Page.png)
+![Image of Standard page form](../.gitbook/assets/Unit-2-Standard-Page-Whole-Page.png)
 
 ## Form elements description
 
@@ -28,4 +28,3 @@ The areas highlighted are:
 8. **Save and Preview** buttons.
 
 Notice that on the right-hand side there are also other fields - we’ll discuss these in different sections of this manual.
-
