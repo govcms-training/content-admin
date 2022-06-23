@@ -12,17 +12,17 @@ A URL \(Uniform Resource Locator\) is a web address. While some can be long and 
 
 For example, the URL below does not provide a good description of the content it will provide to a site visitor:
 
-- https://mywebsite/online.store/products/category13/stock/93891/show.html
+- [https://mywebsite/online.store/products/category13/stock/93891/show.html]()
 
 This URL, on the other hand, provides clear information about the source or organisation \(GovCMS\) as well as the topic of the content \(support\): 
 
 - [https://www.govcms.gov.au/support](https://www.govcms.gov.au/support)
 
-URLs can be automatically generated based on the **Page title** of a piece of _Content_, automatically generated numerically, or specified using a URL alias.
+URLs can be automatically generated based on the **Page title** of a piece of content, automatically generated numerically, or specified using a **URL alias**.
 
-Drupal \(and GovCMS\) creates and maintains its own _internal_ URL for each piece of _Content_. These URLs contain the **node/** path and a number, for example https://mywebsite.gov.au/**node/15**. This address is only accessible to content authors and administrators that are logged in to the site.
+Drupal \(and GovCMS\) creates and maintains its own _internal_ URL for each piece of content. These URLs contain the **node/** path and a number, for example https://mywebsite.gov.au/**node/15**. This address is only accessible to content authors and administrators that are logged in to the site.
 
-It also \(by default\) creates a URL based on the _Title_ of content. For a _Standard Page_ with a _Title_ of 'My Example Standard Page' would have both the following URLS:
+It also \(by default\) creates a URL based on the _Title_ of content. For a _Standard Page_ with a title of 'My Example Standard Page' would have both the following URLS:
 
 - **https://mysite.gov.au/node/15** \(accessible only to logged in users\), and;
 - **https://mysite.gov.au/my-example-standard-page** - accessible to site visitors \(and search engines\)
@@ -49,5 +49,4 @@ Redirects are also created automatically by GovCMS to make sure only one \(usual
 
 The screenshot below illustrates how _Redirects_ forward all traffic to the latest Alias for a given URL.
 
-![](../.gitbook/assets/Unit-7-Redirects-Overview.png) 
-
+![Image of URL redirects overview](../.gitbook/assets/Unit-7-Redirects-Overview.png)
