@@ -1,12 +1,9 @@
+
 # Exercise 10.1: Add an item to a menu
 
-In this exercise you’ll learn the two methods used to add menu items.
+There are two methods you can use to add menu items. The exercises below take you through the two methods, using the example of adding a menu item to the _Main navigation_ menu.
 
-## Two ways to manage site navigation
-
-There are two methods you can use to add menu items. The exercise below takes you through the two methods, using the example of adding a menu item to the Footer submenu.
-
-### Method 1:
+## Method 1 - from Structure
 
 This method requires privileged site access \(e.g. an Administrator user\).
 
@@ -27,7 +24,7 @@ This method requires privileged site access \(e.g. an Administrator user\).
 5. Click on the **Home** item in the breadcrumbs at the top left of the page.
 6. Review the change to the menu in the _Main navigation_. You should see the new menu item 'Copyright' in the menu.
 
-### Method 2:
+## Method 2 - From content
 
 1. Navigate to a Standard Page by clicking on _Content_ in the _Admin menu_ and clicking on a page in the list of type _Standard page_.
 2. Click on the **Edit** menu item.
@@ -42,4 +39,3 @@ This method requires privileged site access \(e.g. an Administrator user\).
 
 9. Click on the **Home** item in the breadcrumbs at the top left of the page.
 10. Review the change to the menu in the _Main navigation_. You should see the new menu item 'Example menu item' in the menu.
-
