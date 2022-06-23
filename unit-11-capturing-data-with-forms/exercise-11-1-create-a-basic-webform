@@ -2,7 +2,7 @@
 
 In this exercise you will create a simple website feedback form. Before we can create a Webform **page** and attach a webform **entity** to it, the _entity_ must exist. Let’s create our first _webform entity_. 
 
-1. Click on _Structure_ on the _Admin menu_ then hover over _Webforms_ and click on _Forms_.
+1. Click on _Structure_ on the _Admin menu_ then hover over _Webforms_ and click on **Forms**.
 
    ![Image of access Webforms menu](../.gitbook/assets/Ex-11-1-Webform-1.png)
    
@@ -12,7 +12,7 @@ In this exercise you will create a simple website feedback form. Before we can c
 
 3. Add a _Title_, for example "Simple Feedback Form".
 4. Add some text to the _Administrative description_ field \(optional\). 
-5. Set the _Status_ of the _Webform_ to be as 'Open' using the radio buttons.
+5. Set the _Status_ of the _Webform_ to be 'Open' using the radio buttons.
 6. Click the **Save.** button.
 
     ![Image of Webform wizard](../.gitbook/assets/Ex-11-1-Webform-2.png)
@@ -34,7 +34,7 @@ In this exercise you will create a simple website feedback form. Before we can c
 
     ![Image of add Webforms elements page](../.gitbook/assets/Ex-11-1-Webform-6.png)
 
-13. Click the **View** tab to review your webform. It should look similar to the below screenshot. Note that the Feedback field label is displayed **above** the field. Let’s move it to be 'inline' with the field.
+13. Click the **View** tab to review your webform. It should look similar to the below screenshot. Note that the "Feedback" _field label_ is displayed **above** the field. Let’s move it to be 'inline' with the field.
 
     ![Image of add Title to field](../.gitbook/assets/Ex-11-1-Webform-7.png)
 
