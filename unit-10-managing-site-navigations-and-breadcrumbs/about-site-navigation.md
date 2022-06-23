@@ -6,8 +6,6 @@
 
 There are several different types of site navigation available on GovCMS websites. Menu items can be created within the **main header**, in the **sidebar** and in the **footer**. Dropdown navigation can also be set up so that the menu items drop down when a mouse hovers over them.
 
-**Screenshot required - PLACEHOLDER ONLY**
-
 ![Image of main navigation areas](../.gitbook/assets/Unit-10-Navigation-Menus-1-TEMP.png)
 
 ## Other navigation types
