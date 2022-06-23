@@ -2,12 +2,12 @@
 
 In this exercise you’ll learn how to **create** a URL alias for a page.
 
-1. Return to edit the page created in **[Exercise 7.1](https://salsa-digital.gitbook.io/govcms-content-administration/unit-7-managing-url-aliases-and-redirects/Exercise-7-1-update-page-url-alias)**. \(From the _Admin menu_ click on _Content_, then click on your page from the list and click the **Edit** menu item\).
+1. Return to edit the page created in **[Exercise 7.1](Exercise-7-1-update-page-url-alias.md)**. \(From the _Admin menu_ click on **Content**, then click on your page from the list and click the **Edit** menu item\).
 2. Expand the URL alias section.
 3. Set a custom URL alias, such as _**/important-content-page**_ \(you may choose your own\). **Note** The URL must begin with a backslash: '/'
 4. Click on the **Save** button at the top right of the page.
 
-    ![](../.gitbook/assets/Exercise-7-2-URL-Alias-1.png)
+    ![Image of create URL alias on Standard page](../.gitbook/assets/Exercise-7-2-URL-Alias-1.png)
 
 5. Note the new URL for the page.
 6. Try navigating to the **/node/100** path noted down in the previous exercise, by pasting it into the address bar of your browser. \(The node ID number - 100 - will differ for you\).
