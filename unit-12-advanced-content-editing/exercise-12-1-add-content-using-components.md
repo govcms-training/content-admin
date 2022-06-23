@@ -2,7 +2,7 @@
 
 In this exercise you will use **components** to add and styled content to a _Standard page_.
 
-1. Create a new _Standard page_ by clicking on _Content_ on the _Admin menu_, then hover over _Add content_ then click _Standard page_.
+1. Create a new _Standard page_ by clicking on **Content** on the _Admin menu_, then hover over _Add content_ then click **Standard page**.
 2. Add a _Title_ and some some content to the _Body field_.
 
     ![Image of new Standard page](../.gitbook/assets/Ex-12-1-Components-1.png)
@@ -22,7 +22,7 @@ In this exercise you will use **components** to add and styled content to a _Sta
 
 7. Review the look of the page, locate the two content Components you created.
 
-    **Screenshot required** -5.png
+[//]: # "**Screenshot required** -5.png"
     
 8. Return to editing the page you created in steps 1-5 \(from the page, click the **Edit** button\). This will expand the component area.
 
@@ -34,7 +34,7 @@ In this exercise you will use **components** to add and styled content to a _Sta
 
 10. Click the **Save** button at the top right of the page. Review the change in the frontend.
 
-    **Screenshot required** -7.png
+[//]: # "**Screenshot required** -7.png"
 
 11. Return to editing the page.
 12. Using the drag and drop elements, rearrange the two components so that the second component is moved to the top.
@@ -45,7 +45,7 @@ In this exercise you will use **components** to add and styled content to a _Sta
 14. Return to editing the page. Edit the top _component_.
 15. Set the _Full content_ field to “Edge to edge”.
 
-    **Screenshot required** -9.png
+[//]: # "**Screenshot required** -9.png"
 
 16. Click the **Save** button at the top right of the page. Review the change in the frontend.    
 17. Return to editing the page. Edit the top _component_.
