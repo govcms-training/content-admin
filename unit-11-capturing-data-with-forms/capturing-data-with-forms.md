@@ -11,21 +11,20 @@ Online forms \(HTML forms\) allow users to fill out information on a website and
 
 Webforms can be used to:
 
-* Setup a complex ‘contact us’ form.
-* Add a survey to your website.
-* Include a feedback form on your site.
-* Add an order form to your site.
+* Setup a complex **Contact us** form.
+* Add a **survey** to your website.
+* Include a **feedback form** on your site.
+* Add an **order form** to your site.
 
 Webforms can be configured to send emails to selected recipients when the form is submitted by a site visitor. Completed form submissions can also downloaded in bulk from the site.
 
-The _Webform_ template is accessible from the content management area of GovCMS. To create a new _Webform_, click on _Structure_ in the _Admin menu_, then hover over _Webforms_ and click on _Forms_. 
+The _Webform_ template is accessible from the content management area of GovCMS. To create a new _Webform_, click on _Structure_ in the _Admin menu_, then hover over _Webforms_ and click on **Forms**. 
 
 ![Image of accessing Webforms from Admin menu](../.gitbook/assets/Unit-11-Webforms-1.png)
 
-On this page you will see a list of all previously created _Webforms_. Click on the **+ Add webform** button at the top right to create a new _Webform_. See exercises **[11.1](https://salsa-digital.gitbook.io/govcms-content-administration/unit-11-capturing-data-with-forms/exercise-11-1-create-a-basic-webform), [11.2](https://salsa-digital.gitbook.io/govcms-content-administration/unit-11-capturing-data-with-forms/exercise-11-2-attach-a-form-to-a-webform-page)** and **[11.3](https://salsa-digital.gitbook.io/govcms-content-administration/unit-11-capturing-data-with-forms/exercise-11-3-create-an-event-registration-form)** for the steps required to build a _Webform_ and use it on a site page.
+On this page you will see a list of all previously created _Webforms_. Click on the **+ Add webform** button at the top right to create a new _Webform_. See exercises **[11.1](exercise-11-1-create-a-basic-webform.md), [11.2](exercise-11-2-attach-a-form-to-a-webform-page.md)** and **[11.3](exercise-11-3-create-an-event-registration-form.md)** for the steps required to build a _Webform_ and use it on a site page.
 
 ![Image of accessing Webforms from Admin menu](../.gitbook/assets/Unit-11-Webforms-2.png)
-
 
 **Note:** In GovCMS, each _Webform_ is an independent _entity_; to attach metadata to a _Webform_, it must be referenced from a _Webform_ _**content type**_. This approach allows for broader use-cases of webforms as independent entities and means they can be reused in multiple places.
 
