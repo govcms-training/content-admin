@@ -1,8 +1,8 @@
 # Exercise 9.1: Add taxonomy terms
 
-In this exercise you’ll learn how to add _taxonomy_ terms to an existing _vocabulary_.
+In this exercise you will learn how to add _taxonomy_ terms to an existing _vocabulary_.
 
-1. Hover over **Structure** then click on **Taxonomy** on the _Admin menu_.
+1. Hover over __Structure_ on the _Admin menu_ then click on **Taxonomy**.
 
     ![Image of Structure, Taxonomy menu](../.gitbook/assets/Ex-9-1-Taxonomy-1.png)
 
@@ -19,7 +19,7 @@ In this exercise you’ll learn how to add _taxonomy_ terms to an existing _voca
 
 7. You willl now be back on the _Add term_ page.
 8. Add a few more _taxonomy_ terms.
-9. Go back to the **Event categories** vocabulary by hovering over  **Structure**, **Taxonomy** then clicking on **News categories** and add two more _taxonomy_ terms.
+9. Go back to the **Event categories** vocabulary by hovering over  _Structure_, then _Taxonomy_ then clicking on **News categories** and add two more _taxonomy_ terms.
 
     ![Image of Structure, Event Categories menu](../.gitbook/assets/Ex-9-1-Taxonomy-4.png)
-    
+ 
