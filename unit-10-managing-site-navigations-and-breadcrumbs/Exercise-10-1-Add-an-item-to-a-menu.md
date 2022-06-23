@@ -1,11 +1,7 @@
 
-# Exercise 10.1: Add an item to a menu
+# Exercise 10.1: Add an item to a menu from Stucture
 
-There are two methods you can use to add menu items. The exercises below take you through the two methods, using the example of adding a menu item to the _Main navigation_ menu.
-
-## Method 1 - from Structure
-
-This method requires privileged site access \(e.g. an Administrator user\).
+There are two methods you can use to add menu items. This method requires privileged site access \(e.g. an Administrator user\).
 
 1. Hover over _Structure_, then → _Menus_ and click **Main navigation** on the _Admin menu_.
 
