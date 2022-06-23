@@ -2,7 +2,7 @@
 
 In this exercise we attach the webform created in Exercise 11.1 to a **webform page**, so that it’s accessible by the public and can have other attributes available to content types \(for example, we could place it on a custom URL, attach to a site navigation menu, add metadata and use moderation workflow\).
 
-1. Create a new _Webform_ content page by clicking on _Content_ in the _Admin menu_ then hover over _Add content_ then click on _Webform_.
+1. Create a new _Webform_ content page by clicking on **Content** in the _Admin menu_ then hover over _Add content_ then click on **Webform**.
 
     ![Image of create Webform from Admin menu](../.gitbook/assets/Ex-11-2-Attach-webform-1.png)
 
@@ -18,3 +18,4 @@ In this exercise we attach the webform created in Exercise 11.1 to a **webform p
 8. Note that 'Your feedback' is now a menu item on the _Main navigation_ menu. Click on the link. The page containing your form should look similar to the screenshot below.
 
     ![Image of create Webform edit page](../.gitbook/assets/Ex-11-2-Attach-webform-3.png)
+
