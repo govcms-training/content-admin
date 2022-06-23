@@ -4,7 +4,7 @@
 
 ## What are breadcrumbs
 
-Breadcrumbs show the **hierarchy path** of a website and are a quick and easy way for site visitors to navigate back to certain pages from the page they are currently on.
+Breadcrumbs show the **hierarchy path** of a website and are a quick and easy way for site visitors \(and content authors and approvers\) to navigate back to certain pages from the page they are currently on.
 
 In the example shown in the screenshot below, a site visitor is on the page 'GovCMS Mega Meeting - Canberra'. The breadrumb shows:
 
@@ -14,7 +14,7 @@ In the example shown in the screenshot below, a site visitor is on the page 'Gov
 
 ## Navigating using breadcrumbs
 
-A site visitor can click on **Home** to return to the Homepage of the site, or on **Events** to navigate to go to a listing of events.
+A site visitor can click on **Home** to return to the Homepage of the site, or on **Events** to navigate to a listing of events.
 
 ## Breadcrumbs and site structure / hierarchy
 
