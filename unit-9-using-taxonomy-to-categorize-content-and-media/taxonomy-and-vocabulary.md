@@ -6,13 +6,13 @@
 
 A **taxonomy** in Drupal \(and GovCMS\) is a way to classify or categorise certain types of _content_. 
 
-A **vocabulary** is a **group** of _taxonomy_ items. A _vocabulary_ can only be used to categorise one type of _content_. For example, only the _Event categories_ _vocabulary_ can be used to categorise _content_ of type _event_.  
+A **vocabulary** is a **group** of _taxonomy_ items. A _vocabulary_ can only be used to categorise one type of _content_. For example, only the _Event categories_ _vocabulary_ can be used to categorise content of type _Event_.  
 
 These terms and the distinction between them is best illustrated by an example. News articles can be classified or categorised by the **State/Terriroty** they relate to. The categories or _taxonomy_ items would be ACT, NSW, QLD, NT, SA, TAS, WA. The _vocabulary_ in this example would be called **State**. 
 
 ## View vocabularies and taxonomy terms \(items\)
 
-To see the list of _vocabularies_ available to use on a site, hover over **Structure** on the _Admin menu_ then click **Taxonomy**.
+To see the list of _vocabularies_ available to use on a site, hover over _Structure_ on the _Admin menu_ then click **Taxonomy**.
 
 ![Image of taxonomy menu](../.gitbook/assets/Unit-9-Taxonomy-1.png)
 
