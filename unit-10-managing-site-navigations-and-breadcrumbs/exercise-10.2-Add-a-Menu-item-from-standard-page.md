@@ -1,6 +1,6 @@
 # Exercise 10.2: Add a Menu item from a _Standard page_
 
-In this exercise you will learn how to add a menu item from a _Standard page_.
+In this exercise you will learn how to create a menu item in the main navigation menu of the site, which links to an existing page.
 
 1. Navigate to a Standard Page by clicking on _Content_ in the _Admin menu_ and clicking on a page in the list of type _Standard page_.
 2. Click on the **Edit** menu item.
