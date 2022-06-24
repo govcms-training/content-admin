@@ -1,0 +1,63 @@
+# Exercise 11.1: Create a basic Webform
+
+In this exercise you will create a simple website feedback form. Before we can create a Webform **page** and attach a webform **entity** to it, the _entity_ must exist. Let’s create our first _webform entity_. 
+
+1. Click on _Structure_ on the _Admin menu_ then hover over _Webforms_ and click on **Forms**.
+
+   ![Image of access Webforms menu](../.gitbook/assets/Ex-11-1-Webform-1.png)
+   
+2. Click on the **+Add webform** button at the top right of the page.
+
+   ![Image of access Webforms menu](../.gitbook/assets/Ex-11-1-Webform-1-a.png)
+
+3. Add a _Title_, for example "Simple Feedback Form".
+4. Add some text to the _Administrative description_ field \(optional\). 
+5. Set the _Status_ of the _Webform_ to be 'Open' using the radio buttons.
+6. Click the **Save.** button.
+
+    ![Image of Webform wizard](../.gitbook/assets/Ex-11-1-Webform-2.png)
+
+7. You’ll be redirected to the webform building interface \(the _Build_ tab is active\), so you can add elements \(fields\) to your webform, configure various conditions and much more.
+8. Click the **Add element** button, then find the _Text field_ element in the _Basic elements_ section, then click on the **Add Element** button to add a _Text field_ element for the Feedback field.
+
+   ![Image of Webform build tab](../.gitbook/assets/Ex-11-1-Webform-3.png)
+
+   ![Image of add text field to Webform](../.gitbook/assets/Ex-11-1-Webform-4.png)
+
+9. Add text to the the _Title_ field as shown in the screenshot below.
+
+       ![Image of add Title to field](../.gitbook/assets/Ex-11-1-Webform-5.png)
+
+10. Note the other tabs that allow you to configure the field - _Conditions_, _Advanced_ properties and _Access_. Explore those tabs but do not modify anything yet. 
+11. Click the **Save** button.
+12. Click on the **Save elements** button at the bottom left of the page. 
+
+    ![Image of add Webforms elements page](../.gitbook/assets/Ex-11-1-Webform-6.png)
+
+13. Click the **View** tab to review your webform. It should look similar to the below screenshot. Note that the "Feedback" _field label_ is displayed **above** the field. Let’s move it to be 'inline' with the field.
+
+    ![Image of add Title to field](../.gitbook/assets/Ex-11-1-Webform-7.png)
+
+14. Return to the Webform _Build_ interface by clicking the **Build** tab.
+
+15. Click the **Edit** button to the right hand side of the _Feedback_ element.
+
+    ![Image of edit button Webform elements](../.gitbook/assets/Ex-11-1-Webform-8.png)
+
+16. On the right hand side, expand the 'Form display' dropdown section. Select 'Inline' from the _Title display_ dropdown.
+
+    ![Image of edit button Webform Title display](../.gitbook/assets/Ex-11-1-Webform-9.png)
+
+17. Scroll down to the bottom of the right hand side section. Click **Save**. 
+18. Click **Save elements** on the _Webforms_ page.
+ 
+    ![Image of Webform save buttons](../.gitbook/assets/Ex-11-1-Webform-10.png)
+
+19. Click on the **View** menu item. The Feedback label should now be 'inline' with the form field as shown in the screenshot below.
+
+    ![Image of inline Feedback Webform ](../.gitbook/assets/Ex-11-1-Webform-11.png)
+
+***
+
+**Note** If you moved away from your webform at any point during the exercise, use the _Admin menu_ to return to the form via _Structure_ → _Webforms_ → \[select the webform from the list\].
+
