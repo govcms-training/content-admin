@@ -18,8 +18,6 @@ In this exercise you will learn how to create a menu item in the main navigation
 8. In the "Parent Item" dropdown, select the "<Main navigation>" option.
 9. Make sure that the "Current state" option at the top of the right-hand sidebar is set to "Published". If not, then use the "Change to" select to change it to that.
 10. Click the "Save" button at the top-right of the page.
-
-    ![Image of Standard Page add menu item](../.gitbook/assets/Ex-10-1-Menus-Standard-page-1.png)
-
-9. Click on the **Home** item in the breadcrumbs at the top left of the page.
-10. Review the change to the menu in the _Main navigation_. You should see the new menu item 'Example menu item' in the menu.
+   ![Image of Standard Page add menu item](../.gitbook/assets/Ex-10-1-Menus-Standard-page-1.png)
+11. Click on the "Home" item in the breadcrumbs at the top-left of the page, to navigate back to the front-end of the site.
+12. Review the change to the menu in the _Main navigation_ (you should see the new menu item 'Example menu item' in the menu).
