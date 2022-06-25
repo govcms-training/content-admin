@@ -1,88 +1,34 @@
 # Webform components
 
-Webform components can be used to collect different types of data. There are many useful components available, as shown in the screenshots below.
+Webform components can be used to collect different types of data. Different elements can be added to a _Form_ using similar steps to the way a _Text field_ was added in **[Exercise 11.1](https://salsa-digital.gitbook.io/govcms-content-administration/unit-11-capturing-data-with-forms/exercise-11-1-create-a-basic-webform)**.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">
-        <img src="../.gitbook/assets/106 (1) (1).png" alt="https://lh4.googleusercontent.com/Xn1TINX_oqYD39vRLLvPeU6UhtX8zbu02g5INEeVf9iw0InP1SRWGXOhuAHHRAim2X4J2YEAhDDDk2OXvoW8fzEnpQ0QrnjywapxQoIJbgzX-eUlxNGPNZUC0GrTu-r1HioqoY8I"
-        />
-      </th>
-      <th style="text-align:left">
-        <img src="../.gitbook/assets/107 (1) (1).png" alt="https://lh4.googleusercontent.com/ZMum0v7hY45_oJRNUknl1kMXUPpG1rFjvayzFBQfdTZzzbyzmLBbA27Uvyti_eSxs6wIkPEYbSl52YmbOZ64brwGj9BPFkhhE_b1px4u6QZ9E4zrB0CUMtcV8KLETrLTfs0pG-dR"
-        />
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/108.png" alt="https://lh6.googleusercontent.com/r03bvm8eNVWnFoDRRJcAk_cedKk4bUWui2kbx5jDPcTUk7Wt5DkRZC05HI3BPLcLZi_YhzypF84HDdZudJUTqo2ffFlwWGC02f2UK_APbOdn_IQZsDF9r3Hw9FrZuP9XqJas9AOI"
-        />
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/109.png" alt="https://lh4.googleusercontent.com/zYEn-wvevInpScDsUjxJTEv5p5zwHm7WNEpg-zqedcz9s7yoyarcF7PfwMynvHDxcmSPVyO7R9O7CRxLJO2Tz2vFcsOlXYzP6ZhvFnDk2umUx09FFQyj16eqYqtASvo2W5fsd6Bq"
-        />
-      </td>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/110 (1) (1).png" alt="https://lh6.googleusercontent.com/8Sy-cXhoDS7sfwHVZpfTRL-fWTj5Fh0HHCLhsMpzbkob9NIvq34W2S0TcBOxkmsmR4DskuNTf6H-ieefKKAzqreaa7_D_Y0D0iMnJzeMhsTKh9cRgyz_Adwnzugc0kB0-s_x9VWk"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/111 (1).png" alt="https://lh4.googleusercontent.com/Mz1P4XyqDRcNi8RN07yC35uG1iaRg69SEfOtGosMjf9r9oBphem1o0OOc3MgS6xfTJTEbSUlX7QwxnflLqBAVCi6jMA-r7kcqNpocepnNGddb4QxLnJZ6QVfp5tH0wLM7N8lfdhA"
-        />
-      </td>
-      <td style="text-align:left">
-        <p>
-          <img src="../.gitbook/assets/112.png" alt="https://lh5.googleusercontent.com/46QtNXE7NsRmtc1PHfRzC-znnDNpGOlx8Dk0w9MzmiKO8kFjcMOIJKepFqfjAmfyK0BM3taUVj7S2LspMAkmuXG-l7lKq0PkRIA3m5GQf25CKlEwX_zx5-uRyMsJs7rsMYOFU7qw"
-          />
-        </p>
-        <p>
-          <img src="../.gitbook/assets/113 (1) (1).png" alt="https://lh6.googleusercontent.com/Pi6vFbJTZYCBgMhXp9sSFBtfFsLCDT1nCZDlD7GcLO5yoHqDuoXPwfH9GVYILHSuenia2xyeVxRcfrle_RjaQyHhTF2X2ExBwkBm05Z3zm_fKglrh4jIkPQF1eyV5ipDRbL_rJPi"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/114 (1) (1).png" alt="https://lh6.googleusercontent.com/Npvrgi-rD-mXVEnXc6ptswwyoB3Yb9vfrcygHWdmrzX6mjMNcFiy_U1XVbuo8qTCGgOPUKmukS45AVkUs4x6t-OxEhS4rgLVq3TsIOhjpcVB84NFqHIMIdNfv9hwiPt5GaGeJfYD"
-        />
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/115.png" alt="https://lh5.googleusercontent.com/GlZzVj2JLmewuAri-faDe1Eh4cnH4IKlhzKQyhTnGAAlAEOUTcifTyJsJLXvieIf6FUJhtSQ-qdmsNhuuosffmSjAapk7aOPk2mzJaYAeLA1FUb6I51mcug6mQpfa54Fq9I3wB-j"
-        />
-      </td>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/116 (1).png" alt="https://lh3.googleusercontent.com/G9CLX4XuHP6HOOgQZopyVtYVvQ8q66iVNUEIj5eHirKxSpFphkucLRVzXcyUBDVuF3bUEUJx6GFkm5FFYap_1IYt72KOd3DaYARvLDgtx5QDaRO1nFittSml4BiJc9fsXLy4uHW5"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../.gitbook/assets/117 (1) (1).png" alt="https://lh5.googleusercontent.com/AUCBZp76lHRoxveWBYi0QnzN_XO0UtjX0PhvLorQ4wanysuCzHbcVtf5Mh_txZRxyHuvoLKSKjptJvfl-3G055cqwWeg1odhW7uyucJG89pIOyv4HkgGqH4hzMxsjXxlGfr4vKhE"
-        />
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+To see all the elements available when creating or editing a form, click on _Structure_ on the _Admin menu_ then hover over _Webforms_ then click on _Forms_. 
 
-![](../.gitbook/assets/118%20%281%29%20%281%29.png)
+Click on the **Build** button to the right hand side of a selected form, as shown in the screenshot below. 
 
-### 
+![Image of Webforms page](../.gitbook/assets/Unit-11-Webform-components-1.png)
 
-### Webform options
+Click on the **+Add element** button to the top right of the screen.
 
-The _Settings_ tab contains some useful advanced options.
+You will see a long list of available components. Scroll down to see them all. The screenshots below show some examples from _Basic elements_, _Advanced elements_, _File upload elements_ and _Options elements_.
+
+![Image of Webforms page](../.gitbook/assets/Unit-11-Webform-components-3.png)
+
+![Image of Webforms page](../.gitbook/assets/Unit-11-Webform-components-4.png)
+
+
+## Webform options
+
+The _Settings_ tab contains some useful advanced options. 
+
+1. To access these options, click on the _Settings_ menu.
+2. Click on the various 'second level' menu items \(_General, Form, Submissions, Confirmation, Emails/Handlers, CSS/JS, Access_\) to view the options available.
+
+In the sceenshot below, the form is configured to direct a site visitor to a Confirmation Page \(3\). The _Confirmation title_ and _Confirmation message_ \(4\) can be customised as shown in the screenshot.
+
+![Image of Webforms page](../.gitbook/assets/Unit-11-Webform-components-5.png)
+
+Some of the more important and commonly used _options_ are outlined in the table below.
 
 <table>
   <thead>
@@ -129,39 +75,4 @@ The _Settings_ tab contains some useful advanced options.
   </tbody>
 </table>
 
-### Webform results
-
-You can view the webform results from the _Webform_ page \(if your account has the correct permissions\) by clicking on the **Results** tab. Results can be viewed and downloaded in many different formats.
-
-#### Exercise 11.3: Create an event registration form
-
-In this exercise we’re going to create an event registration form.
-
-1. Add a new Webform \(see previous Exercise 11.1 how to create a webform\) and set its title as _Event Registration._
-2. Add a component field type _Entity select_ \(see the _Entity reference elements_ section\), titled "Event" \(make it required - see the Form Validation fieldset at the bottom\). Configure the rest of the options to match these screenshots:
-
-   ![](../.gitbook/assets/119%20%281%29.png)![](../.gitbook/assets/120%20%281%29.png)
-
-3. Add a _Text field_ element labelled “Full name”, make it required. You may add the description “Please enter your full name” in the _Element description/help/more_ fieldset.
-4. Add an _Email_ element, labelled “Email address” and make it required.
-5. Add a Textarea element labelled “Comment” and make it optional.
-6. Add some “Basic HTML” markup that says: "You are about to submit a form on the internet, are you sure?"
-
-   ![](../.gitbook/assets/121%20%281%29%20%281%29.png)
-
-7. Split your form into two-page form by adding two pages. Name them “Step 1. Form” and “Step 2. Confirmation”
-
-   ![](../.gitbook/assets/122%20%281%29.png)
-
-8. Using the little cross drag-and-drop to position Pages 1 and 2 as displayed. Then, indent form elements to the right, nesting them within pages 1 and 2, as below:
-
-   ![](../.gitbook/assets/123%20%281%29.png)
-
-9. Press the **Save elements** button and test your form 
-
-**Hint:** The Test tab allows you to easily test your form with auto-filled dummy data.
-
-![](../.gitbook/assets/124%20%281%29%20%281%29.png)
-
-### 
-
+###
