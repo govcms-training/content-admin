@@ -1,41 +1,53 @@
 # Content moderation in GovCMS
 
-A content moderation workflow allows content to go through an approval process before it’s posted live on a website.
+{% embed url="https://vimeo.com/501677909" %}
 
-GovCMS comes with a default workflow process \(see the diagram below\). In this model:
+## Content moderation summary
 
-* Content has four "states"
-* Content “transitions” as it moves from one state to another
-* Different people/roles have different permissions when it comes to the content workflow. For example, in the default setting, Content Editors _cannot publish content -_ it has to be approved by a Content Approver.
+A content moderation workflow allows content to go through an approval process before it’s posted live on a website. This means that content can be authored by one person and reviewed by another before it is approved. Only once approved is the content made visible to the public \(site visitors\).
 
-![](../.gitbook/assets/48%20%281%29.png)
+## GovCMS content moderation workflow
+
+Content moderation is a GovCMS tool \(module\) that provides a default workflow process. In this model:
+
+* Content has four "states":
+	1. Draft
+	2. Needs Review
+	3. Published
+	4. Archived
+* Content **transitions** as it moves from one state to another.
+* Different people or different **roles** have different permissions regarding what actions they can perform in the content workflow. For example, in the default setting, **Content Editors** **_cannot publish content_**. Only a  **Content Approver** can approve content.
+
+The screenshot below summarises the default GovCMS workflow:
+
+![Image of content moderation workflow](../.gitbook/assets/Unit-5-Content-Moderation-Workflow.png)
 
 This default workflow can also be extended by a site builder/developer.
 
-### Changing the content moderation state
+## Changing the content moderation state
 
-You can publish content using the content editing form. The "states" available will correspond to the current content state, as well as the transitions you’re permitted to use within your official content role.![](../.gitbook/assets/49.png)
+You can publish content using the _content editing_ form. To see the states availale for a piece of content \(and for your given **role**\) navigate to _Content_ by clicking on the _Content_ button in the _Admin menu_. Then click on a piece of content to edit it.
 
-### Content moderation
+The workflow "states" available will depend on:
 
-Content moderation is a GovCMS tool \(module\) that provides the publishing workflow functionality. It also provides a customisable dashboard. You can access it from the main Content Administration page by clicking the **Moderated content** tab \(position 2 in the figure below\).
+1. The **current content state**.
+2. The transitions you’re permitted to use within your official content **role**.
 
-![](../.gitbook/assets/50%20%281%29%20%281%29.png)_Moderated content page in GovCMS_
+In the example below, the content was authored by a _Content author_. The current user is a _Content Approver_ and the _Standard page content_ is in the state of **Needs Review**. The _Content Approver_ can select from two options in the _Change to_ dropdown: 
 
-#### Exercise 5.1: Use the Content Moderation
+1. **Published**. This would make the content visible to site visitors.
+2. **Draft**. Usually this would then require the _Content author_ to make further changes to the page before again submitting it for review by changing the state to **Needs Review**.
 
-This exercise will demonstrate how content can be moved through the _Content Moderation_ statuses.
+![Image of Standard page highlighting content moderation](../.gitbook/assets/Unit-5-Content-Moderation-2.png)
 
-1. In the NavBar, click on **Content**, then click the secondary tab **Moderated Content**
-2. Select a content item in the list that requires moderation and click **Edit**
-3. Make some changes to the content \(e.g. delete some text or add text\)
-4. Save the content, leaving it in the Draft status \(notice that you’re redirected to the _Moderated Content_ page and that the content page you were just editing is now at the top of the list\)
-5. Select the content item you just edited and click **Edit** again
-6. Click _Change to:_ “Needs Review" and press **Save**
-7. Edit the same content item again
-8. Click _Change to:_ “Published" and press **Save**
+**Note** While the _Content approver_ is reviewing the page, they are in _Edit_ mode, and so may make their own changes to the page before publishing.
 
-Moving content through the workflow process from Draft to Published usually involves multiple people. However, if your account has full permissions, you can move content through the states and publish changes immediately.
+## The Content moderation dashboard
 
-## 
+The GovCMS content moderation module also provides a customisable **dashboard**. To access the **Content moderation dashboard** click on the **Content** button in the _Admin menu_ to navigate to the main _Content Administration page_. Then click on the **Moderated content** tab highlighted in the screenshot below.
 
+![Image of Content moderation dashboard menu](../.gitbook/assets/Unit-5-Content-Moderation-3.png)
+
+Once in the _Content moderation dashboard_ you will see a list of content that is in different **states**. In the example below we see there are 4 items in **Draft** and one item in **Needs Review**. A _Content Approver_ could use this list to see what items are ready for them to review.
+
+![Image of Content moderation dashboard](../.gitbook/assets/Unit-5-Content-Moderation-4.png)
