@@ -41,8 +41,8 @@ Below the Navigation tab is the _Filter section_. This allows you to filter the 
 
 Below the _filter section_ is the list of actual site content, displayed by default in date order, with the most recent content at the top. 
 
-Access to bulk operations is provided inline with the content. Bulk operations are covered in **[Unit 12 - Advanced - content bulk operations](../unit-12-advanced-content-editing/bulk-operations.md)**
+If one or more items in the _content_ list is selected, the bulk operations area appears at the bottom of the page. Bulk operations are covered in **[Unit 12 - Advanced - content bulk operations](../unit-12-advanced-content-editing/bulk-operations.md)**
 
-![Image of Content listing](../.gitbook/assets/Unit-1-Content-Page-Site-Content-Bulk-Operations.png)
+![Image of Content listing](../.gitbook/assets/Unit-1-Content-Page-Content-Bulk-Operations.png)
 
 
