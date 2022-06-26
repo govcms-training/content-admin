@@ -44,7 +44,7 @@
     * [Exercise 3.1 - Create some content](unit-3-managing-content-in-govcms/Exercise-3-1-Create-some-content.md) 
     * [Exercise 3.2 - Create a Blog Article (optional)](unit-3-managing-content-in-govcms/optional-exercise-3.2-create-a-blog-article.md)
 * [Editing content](unit-3-managing-content-in-govcms/editing-content.md)
-    * [Exercise 3.4 - Edit a piece of content](unit-3-managing-content-in-govcms/Exercise-3-3-Edit-a-piece-of-content.md) 
+    * [Exercise 3.3 - Edit a piece of content](unit-3-managing-content-in-govcms/Exercise-3-3-Edit-a-piece-of-content.md) 
 * [Archiving content](unit-3-managing-content-in-govcms/archive-content.md)
     * [Exercise 3.4 - Archiving content](unit-3-managing-content-in-govcms/Exercise-3-4-Archiving-content.md)
 * [How content changes can affect the site](unit-3-managing-content-in-govcms/how-content-changes-can-affect-the-site.md)
@@ -62,10 +62,10 @@
 
 ## UNIT 6: Files and media assets <a id="unit-6-files-media-assets"></a>
 
-* [Managing files and media assets in GovCMS](unit-6-files-media-assets/managing-files-and-media-assets-in-govcms.md)
-* [Media library](unit-6-files-media-assets/media-library.md)
-    * [Exercise 6.1 - Uploading and using media](unit-6-files-media-assets/Exercise-6-1-Uploading-and-using-media.md)
-    * [Exercise 6.2 - Bulk upload and Manage media](unit-6-files-media-assets/Exercise-6-2-Manage-media.md)
+* [Managing files and media assets in GovCMS](unit-6-managing-files-and-media-assets-in-govcms/managing-files-and-media-assets-in-govcms.md)
+* [Media library](unit-6-managing-files-and-media-assets-in-govcms/media-library.md)
+    * [Exercise 6.1 - Uploading and using media](unit-6-managing-files-and-media-assets-in-govcms/Exercise-6-1-Uploading-and-using-media.md)
+    * [Exercise 6.2 - Bulk upload and Manage media](unit-6-managing-files-and-media-assets-in-govcms/Exercise-6-2-Manage-media.md)
 
 ## UNIT 7: MANAGING URL ALIASES AND REDIRECTS
 
