@@ -44,7 +44,7 @@
     * [Exercise 3.1 - Create some content](unit-3-managing-content-in-govcms/Exercise-3-1-Create-some-content.md) 
     * [Exercise 3.2 - Create a Blog Article (optional)](unit-3-managing-content-in-govcms/optional-exercise-3.2-create-a-blog-article.md)
 * [Editing content](unit-3-managing-content-in-govcms/editing-content.md)
-    * [Exercise 3.4 - Edit a piece of content](unit-3-managing-content-in-govcms/Exercise-3-3-Edit-a-piece-of-content.md) 
+    * [Exercise 3.3 - Edit a piece of content](unit-3-managing-content-in-govcms/Exercise-3-3-Edit-a-piece-of-content.md) 
 * [Archiving content](unit-3-managing-content-in-govcms/archive-content.md)
     * [Exercise 3.4 - Archiving content](unit-3-managing-content-in-govcms/Exercise-3-4-Archiving-content.md)
 * [How content changes can affect the site](unit-3-managing-content-in-govcms/how-content-changes-can-affect-the-site.md)
