@@ -26,7 +26,7 @@ In this exercise you will create a simple website feedback form. Before we can c
 
 9. Add text to the the _Title_ field as shown in the screenshot below.
 
-       ![Image of add Title to field](../.gitbook/assets/Ex-11-1-Webform-5.png)
+   ![Image of add Title to field](../.gitbook/assets/Ex-11-1-Webform-5.png)
 
 10. Note the other tabs that allow you to configure the field - _Conditions_, _Advanced_ properties and _Access_. Explore those tabs but do not modify anything yet. 
 11. Click the **Save** button.
