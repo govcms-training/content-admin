@@ -12,6 +12,8 @@ In this exercise you will learn how to **update** a page’s URL alias.
 6. Click on the **Save** button at the top right of the page.
 7. Navigate to the page you saved - note the URL.
 
-Your content should have a URL like http://example.com/node/100. In this example “node/100” is the **internal** **Drupal path** for the page. The number "100" is a **unique** number that Drupal uses to store information about this specific page. In Drupal, this is called the "node id". Each page will have a different number.
+Your content should have a URL like: http://example.com/node/100&#x20;
+
+In this example “node/100” is the **internal** **Drupal path** for the page. The number "100" is a **unique** number that Drupal uses to store information about this specific page. In Drupal, this is called the "node ID". Each page will have a different number. The number "100" will be different on your site.
 
 _**Note down this URL for the next exercise.**_
