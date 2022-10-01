@@ -26,13 +26,11 @@ In this exercise you will create an _Event registration form_.
     ![Image of Add Page](../.gitbook/assets/Ex-11-3-Registration-Form-6.png)
 11. Add another page using following steps 8 to 10. Name the page 'Comments'.
 12. Using the small cross icons to the left of the Pages and Elements, drag-and-drop to position the 'Name and Email address' and 'Comments'.
-13. Indent the form elements to the right, nesting them within the pages 1 and 2, as shown in the screenshot below:
+13. Indent the form elements to the right, nesting them within the pages 1 and 2, as shown in the screenshot below.
+14. Press the **Save elements** button.
 
-![Image of Reorder elements](../.gitbook/assets/Ex-11-3-Registration-Form-8.png)
-
-14\. Press the **Save elements** button.
-
-15\. Optional - Add an email handler so that webform responses are automatically emailed to a specified email.
+    ![Reorder elements](../.gitbook/assets/Ex-11-3-Registration-Form-8.png)
+15. Optional - Add an email handler so that webform responses are automatically emailed to a specified email.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Create email handler</p></figcaption></figure>
 
