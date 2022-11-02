@@ -13,7 +13,7 @@ In this exercise you will learn how to create a menu item in the main navigation
 7. The "Menu link title" setting is by default pre-populated with the title of the piece of content you are editing. You can choose to leave it as is, or change it to something more unique (for example add the text 'Example menu item'). **Tip**: Page titles may often be lengthy, but with menu items it is best practice to keep them short. Consider a page on your site with a title of "More information about Our Agency". When creating a menu item for this page on the main navigation of your site, you may want to have the title of the menu be "About us", or simply "About".
 8. In the "Parent Item" dropdown, select the "< Main navigation >" option.
 9. Make sure that the "Current state" option at the top of the right-hand sidebar is set to "Published". If not, then use the "Change to" select to change it to that.
-10. Click the "Save" button at the top-right of the page.&#x20;
+10. Click the "Save" button at the top-right of the page.
 
     <figure><img src="../.gitbook/assets/Ex-10-1-Menus-Standard-page-1.png" alt=""><figcaption></figcaption></figure>
 11. Click on the "Home" item in the breadcrumbs at the top-left of the page, to navigate back to the front-end of the site.
