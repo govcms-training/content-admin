@@ -2,17 +2,14 @@
 
 Content Reference is a fantastic way to build relationships between different content in GovCMS. Some examples of a relationship would be:
 
-* An Event category taxonomy term associated with an Event
+*   An Event category taxonomy term associated with an Event
 
-  ![](../.gitbook/assets/35%20%282%29.png)
+    <img src="../.gitbook/assets/35 (2) (2) (1).png" alt="" data-size="original">
+*   One content page referencing another content page or a few pages (check the homepage of your training site):
 
-* One content page referencing another content page or a few pages \(check the homepage of your training site\):
+    <img src="../.gitbook/assets/36 (2) (2).png" alt="" data-size="original">
+*   Content pages referencing an image or user
 
-  ![](../.gitbook/assets/36%20%282%29%20%282%29.png)
+    <img src="../.gitbook/assets/37 (2) (2).png" alt="" data-size="original">
 
-* Content pages referencing an image or user
-
-  ![](../.gitbook/assets/37%20%282%29.png)
-
-## 
-
+##
