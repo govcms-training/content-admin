@@ -6,9 +6,11 @@
 
 This training manual is for government or not-for-profit employees using GovCMS to edit and manage their website. However, many of the concepts in this manual can be applied to other Drupal sites.
 
-This manual assumes you have GovCMS on your local computer or on the GovCMS hosting platform. While there are no specific knowledge prerequisites, if you’ve had experience with other CMSs you’ll find this course \(and using GovCMS\) easier.
+This manual assumes you have GovCMS on your local computer or on the GovCMS hosting platform. While there are no specific knowledge prerequisites, if you’ve had experience with other CMSs you’ll find this course (and using GovCMS) easier.
 
-Public URL: [https://salsa-digital.gitbook.io/govcms-content-administration](https://salsa-digital.gitbook.io/govcms-content-administration) GitHub URL: [https://github.com/govcms-training/content-admin](https://github.com/govcms-training/content-admin)
+Public URL: [https://salsa-digital.gitbook.io/govcms-content-administration](https://salsa-digital.gitbook.io/govcms-content-administration)&#x20;
+
+GitHub URL: [https://github.com/govcms-training/content-admin](https://github.com/govcms-training/content-admin)
 
 ## What you will learn
 
@@ -27,7 +29,7 @@ In this training manual, you will learn how to:
 
 ## About GovCMS
 
-Welcome to GovCMS, a whole-of-government digital platform based on open source content management system \(CMS\) Drupal.
+Welcome to GovCMS, a whole-of-government digital platform based on open source content management system (CMS) Drupal.
 
 One of the advantages of GovCMS as a whole-of-government digital platform is that the content covered in this course can be applied to the many GovCMS websites across Australian government. In addition, while this course focuses on GovCMS, much of the content and exercises can be applied to Drupal websites.
 
@@ -41,9 +43,8 @@ Alternatively you can also provide any feedback by emailing **govcms.training@sa
 
 ## License
 
-[![CC BY-SA 3.0](https://camo.githubusercontent.com/54f85ff154017b9f86a8882c3469d7dfcab63442ae40f2ec49b7bbffede2d475/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d434325323042592d2d5341253230332e3025323041552d6c69676874677265792e737667)](https://creativecommons.org/licenses/by-sa/3.0/au/)  
-  
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Australia License \(CC BY-SA 3.0 AU\)](https://creativecommons.org/licenses/by-sa/3.0/au/).
+[![CC BY-SA 3.0](https://camo.githubusercontent.com/54f85ff154017b9f86a8882c3469d7dfcab63442ae40f2ec49b7bbffede2d475/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d434325323042592d2d5341253230332e3025323041552d6c69676874677265792e737667)](https://creativecommons.org/licenses/by-sa/3.0/au/)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Australia License (CC BY-SA 3.0 AU)](https://creativecommons.org/licenses/by-sa/3.0/au/).
 
 [![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/3.0/au/)
-
