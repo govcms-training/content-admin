@@ -37,7 +37,7 @@ One of the advantages of GovCMS as a whole-of-government digital platform is tha
 
 We’re continually working on improving these documents with community input and we appreciate any feedback, whether it's helping to contribute to further documentation or code, grammar issues, or simply a suggestion or improvement! Please refer to the [Contributing guide](contributing.md) for more guidance on this topic.
 
-Alternatively you can also provide any feedback by emailing **govcms.training@salsadigital.com.au**.
+Alternatively you can also provide any feedback by emailing [**govcms.training@salsa.digital**](mailto:govcms.training@salsa.digital)
 
 **Note**: While these training materials are updated regularly, modules are also often updated and so you may find some differences between your user interface and the screenshots in this document. We appreciate your feedback and will work as quickly as possible to incorporate any corrections.
 
