@@ -4,7 +4,7 @@ We wish to express our gratitude for your dedication in providing feedback and c
 
 Should you wish to peruse the manual, it is accessible via the following link:&#x20;
 
-https://salsa-digital.gitbook.io/govcms-content-administration..
+[https://salsa-digital.gitbook.io/govcms-content-administration](https://salsa-digital.gitbook.io/govcms-content-administration)
 
 For those inclined to actively contribute and effect changes in the manuals, we have prepared a dedicated page that will assist in guiding you through the contribution process. This resource will detail the tools we employ and outline the sequential steps necessary for successful contributions.
 
