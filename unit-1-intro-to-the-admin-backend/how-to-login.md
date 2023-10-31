@@ -20,7 +20,8 @@ Your environment may be protected by _Shield_ authentication, which means you’
 
 In preparation for the training course, you should have received a number of emails providing you with information required throughout the course. These include:
 
-1. The url for your own personal training environment. This will be similar to **https://nginx-yourname-govcms-training.govcms7.amazee.io/user/**.
+1. The url for your own personal training environment. This will be similar to:\
+   https://your-name.govcms10-training.govcms.gov.au.
 2. The Shield **username** and **password**.
 3. An email confirming your account creation details.
 
