@@ -12,9 +12,9 @@ For those inclined to actively contribute and effect changes in the manuals, we 
 
 There are a few ways you can provide feedback:
 
-* You can email your feedback to [govcms.training@salsa.digital](mailto:govcms.training@salsa.digital).
+* You can email your feedback to [govcms.training@salsa.digital](mailto:govcms.training@salsa.digital)
 * You can submit an issue via the GitHub issue queue: \
-  https://github.com/govcms-training/content-admin/issues/new.
+  [https://github.com/govcms-training/content-admin/issues/new](https://github.com/govcms-training/content-admin/issues/new)
 
 ## Overview and basics
 
