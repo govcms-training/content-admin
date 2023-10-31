@@ -1,17 +1,20 @@
 # Contributing and Feedback Guide
 
-First of all, thank you for taking the time to provide feedback and/or contribute to the training manuals! We’re continually working on improving these documents with community input and we appreciate any feedback, whether it's helping to contribute to further documentation or code, grammar issues, or simply a suggestion or improvement.
+We wish to express our gratitude for your dedication in providing feedback and contributing to the refinement of our training manuals. We are committed to enhancing these documents through the valuable input of our community, and we highly value any feedback you may have to offer. Whether it pertains to further documentation or code contributions, the identification of grammatical issues, or the submission of suggestions and improvements, your engagement is sincerely appreciated.
 
-If you want to read the manual you can do so with the following link: https://salsa-digital.gitbook.io/govcms-content-administration.
+Should you wish to peruse the manual, it is accessible via the following link:&#x20;
 
-If you want to contribute and make changes to the manuals, this page will guide you through the contribution process, outlining which tools we use and the steps you need to follow to contribute.
+https://salsa-digital.gitbook.io/govcms-content-administration..
+
+For those inclined to actively contribute and effect changes in the manuals, we have prepared a dedicated page that will assist in guiding you through the contribution process. This resource will detail the tools we employ and outline the sequential steps necessary for successful contributions.
 
 ## Providing Feedback
 
 There are a few ways you can provide feedback:
 
-* You can email your feedback to govcms.training@salsadigital.com.au.
-* You can submit an issue via the GitHub issue queue: https://github.com/govcms-training/content-admin/issues/new.
+* You can email your feedback to [govcms.training@salsa.digital](mailto:govcms.training@salsa.digital).
+* You can submit an issue via the GitHub issue queue: \
+  https://github.com/govcms-training/content-admin/issues/new.
 
 ## Overview and basics
 
@@ -52,10 +55,10 @@ Any pull request should be based on the `develop` branch. We will not consider p
 
 For more information, please see see [Using Pull Request](https://help.github.com/articles/using-pull-requests/) and [Fork a Repo](https://help.github.com/articles/fork-a-repo/) if you're not familiar with Pull Requests.
 
-## Code review process
+## Review process
 
 Moderators will review and comment on pull requests. We may suggest changes, improvements, or alternatives, in which case the original contributor will be tagged directly so follow-up instructions are clear. There may be times where moderators will make commits to your fork directly for clarity.
 
 ## Community
 
-If you have any other questions about contributing to our documentation, please reach out to govcms.training@salsadigital.com.au or join the online [GovCMS Community Discourse](https://community.govcms.gov.au/).
+If you have any other questions about contributing to our documentation, please reach out to [govcms.training@salsa.digital](mailto:govcms.training@salsa.digital) or join the online [GovCMS Community Discourse](https://www.govcms.gov.au/support/govcms-community).
