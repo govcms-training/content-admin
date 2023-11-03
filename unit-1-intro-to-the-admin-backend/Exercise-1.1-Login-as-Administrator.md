@@ -1,4 +1,4 @@
-# Exercise 1.1 - Login
+# Exercise 1.1 - Login and Setting up TFA
 
 Navigate to your training environment URL (provided in your training preparation emails) and type the **Shield** username and password into the Shield authentication popup:
 
@@ -23,6 +23,47 @@ After successfully logging in, you will be redirected to a page that shows the f
 **Note:** Some elements from the screenshot below may be different, due to permissions settings.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+## Setting up Two Factor Authentication (TFA)
+
+1.  Click on your name in the Admin Menu.
+
+    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+2.  Click on Edit profile.
+
+    <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+3.  Click on the TFA tab.
+
+    <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+4.  Click on Email codes.
+
+    <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+
+5.  The next screen will ask for your password. Enter it and click on Confirm.
+
+    <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+
+6.  Check the box "Receive authentication code by email" and then click on Save.
+
+    <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+
+7. The next screen will ask if you want to "Trust this browser". This is an optional step but it's recommended to check this box if you want to bypass TFA the next time you log in. Click on Save.
+8.  The confirmation page will say "TFA enabled".
+
+    <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**What happens if you choose not to "Trust this browser"?**
+
+After logging in, you will be presented with the TFA page. Click on Send to receive the email code.&#x20;
+
+If you do not click on Send, no code will be sent to your email.
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ## The Admin Menu
 

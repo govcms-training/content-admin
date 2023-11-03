@@ -15,7 +15,7 @@
 ## Unit 1: Intro to the Admin Backend
 
 * [How to login to GovCMS](unit-1-intro-to-the-admin-backend/how-to-login.md)
-  * [Exercise 1.1 - Login](unit-1-intro-to-the-admin-backend/Exercise-1.1-Login-as-Administrator.md)
+  * [Exercise 1.1 - Login and Setting up TFA](unit-1-intro-to-the-admin-backend/Exercise-1.1-Login-as-Administrator.md)
 * [How to log out from your site](unit-1-intro-to-the-admin-backend/how-to-log-out-from-your-site.md)
 * [Administration menu overview](unit-1-intro-to-the-admin-backend/administration-menu-overview.md)
   * [Exercise 1.3 - Add a non-admin user](unit-1-intro-to-the-admin-backend/administration-menu-overview/exercise-1.3-adding-a-non-admin-user.md)
