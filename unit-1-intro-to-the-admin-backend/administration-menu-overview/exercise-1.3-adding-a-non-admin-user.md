@@ -22,6 +22,6 @@ In this exercise you will create a new user account.
 
 What do you notice is different about the site? Discuss with your trainer.
 
-**Tip**: The user you first logged in as (the admin user) is the "super user" of the site. Best practice dictates that no one should use the admin user for day-to-day tasks. Users on the GovCMS SaaS platform do not have access to this user account at all, while on the GovCMS PaaS platform this user account is reserved for those managing your site (such as people in your IT department and/or your developer team).
+**Tip**: The administrator user, sometimes called the admin user or user 1 is the "super user" of the site. This user is more privileged than a user with the role of "site administrator". Best practice dictates that no one should use the admin user for day-to-day tasks.&#x20;
 
-**Note:** During this course, you will need to log back in as admin to complete some of the exercises. Your trainer will let you know when this needs to happen.
+Users on the GovCMS SaaS platform do not have access to this user account at all, while on the GovCMS PaaS platform this user account is reserved for those managing your site (such as people in your IT department and/or your developer team).
