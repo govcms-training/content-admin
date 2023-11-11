@@ -46,6 +46,6 @@ In this exercise you will create a simple website feedback form. Before we can c
 
     ![Image of inline Feedback Webform](../.gitbook/assets/Ex-11-1-Webform-11.png)
 
-***
+
 
 **Note** If you moved away from your webform at any point during the exercise, use the _Admin menu_ to return to the form via _Structure_ → _Webforms_ → \[select the webform from the list].
