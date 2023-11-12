@@ -32,11 +32,11 @@ In this exercise you will create an _Event registration form_.
     ![Reorder elements](../.gitbook/assets/Ex-11-3-Registration-Form-8.png)
 15. Optional - Add an email handler so that webform responses are automatically emailed to a specified email.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Create email handler</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Create email handler</p></figcaption></figure>
 
 In the Email handler pop up window, set the custom email address and click on Save. You can separate multiple email addresses with a comma.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Add custom email addresses separated by a comma</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Add custom email addresses separated by a comma</p></figcaption></figure>
 
 Test your form
 

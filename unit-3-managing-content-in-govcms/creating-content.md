@@ -6,14 +6,14 @@
 
 You can create content in several different ways:
 
-- Click on **Content** from the _Admin menu_ and then click on the **Add content** button at the top right of the page.
+* Click on **Content** from the _Admin menu_ and then click on the **Add content** button at the top left of the page.
 
-![Image of Add Content button](../.gitbook/assets/Unit-3-Add-Content-1.png)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Add content button</p></figcaption></figure>
 
-- Hover your mouse over _Content_ in the _Admin menu_, then hover over **Add content**, then click on the type of content you’d like to create. In the screenshot below we can click on **Standard page**.
+* Hover your mouse over _Content_ in the _Admin menu_, then hover over **Add content**, then click on the type of content you’d like to create. In the screenshot below we can click on **Page**.
 
-![Image of Add Content from menu](../.gitbook/assets/Unit-3-Add-Content-2.png)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Hover over Content >> Add content >> Page</p></figcaption></figure>
 
-- Hover your mouse over **Content** in the _Admin menu_, then click on **Add content**. You can then click on the type of content you’d like to create. 
+* Hover your mouse over **Content** in the _Admin menu_, then click on **Add content**. You can then click on the type of content you’d like to create.
 
-![Image of Add Content from Content type list page](../.gitbook/assets/Unit-3-Add-Content-3.png)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Adding Page content</p></figcaption></figure>
