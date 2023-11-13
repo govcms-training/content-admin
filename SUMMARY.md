@@ -64,7 +64,7 @@
 * [Managing files and media assets in GovCMS](unit-6-managing-files-and-media-assets-in-govcms/managing-files-and-media-assets-in-govcms.md)
 * [Media library](unit-6-managing-files-and-media-assets-in-govcms/media-library.md)
   * [Exercise 6.1 - Uploading and using media](unit-6-managing-files-and-media-assets-in-govcms/Exercise-6-1-Uploading-and-using-media.md)
-  * [Exercise 6.2 - Bulk upload and Manage media](unit-6-managing-files-and-media-assets-in-govcms/Exercise-6-2-Manage-media.md)
+  * [Exercise 6.2 - Manage media - Bulk Operations](unit-6-managing-files-and-media-assets-in-govcms/Exercise-6-2-Manage-media.md)
 
 ## UNIT 7: MANAGING URL ALIASES AND REDIRECTS
 

@@ -5,7 +5,7 @@ In this exercise you will learn how to archive or unpublish content.
 1. Navigate to the _Content_ page by clicking on _Content_ in the _Admin menu_ and locate the Page you created in [**Exercise 3.1**](Exercise-3-1-Create-some-content.md).
 2.  Edit the page by clicking on the _Edit_ button to the right of the page you created.
 
-    <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Content admin interface showing edit button</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Content admin interface showing edit button</p></figcaption></figure>
 3. Select the “Archived” option from the _Change to_ dropdown menu.
 4.  Click the _Save_ button at the bottom of the page.
 
