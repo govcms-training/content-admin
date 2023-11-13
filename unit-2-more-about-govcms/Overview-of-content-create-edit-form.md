@@ -12,7 +12,7 @@ At the same time, there are many areas common to _all_ content creation forms.
 
 An overview of the **Page form** is shown below to highlight these common areas.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Overview of Page content type</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Overview of Page content type</p></figcaption></figure>
 
 ## Form elements description
 
