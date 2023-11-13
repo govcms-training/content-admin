@@ -8,19 +8,25 @@ In this exercise you will learn how to revert to a previous _revision_ (or versi
 
     You should see a list of revisions similar to the screenshot below:
 
-    <img src="../.gitbook/assets/Ex-4-2-Revert-1.png" alt="Image of Revisions tab" data-size="original">
+
+
+    <figure><img src="../.gitbook/assets/Ex-4-2-Revert-1.png" alt=""><figcaption></figcaption></figure>
 4.  Locate the version before the current one and click on the **Revert** button on the right hand side
 
     You will receive a prompt asking you to confirm whether you wish to revert to the selected revision, similar to the screenshot below. Click on **Revert** to complete the process.
 
-    <img src="../.gitbook/assets/Ex-4-2-Revert-2.png" alt="Image of confirmation prompt" data-size="original">
+
+
+    <figure><img src="../.gitbook/assets/Ex-4-2-Revert-2.png" alt=""><figcaption></figcaption></figure>
 5.  You will be returned to the _Revisions_ page. Note the following in this page:
 
     1. The new _revision_ has been created, showing the date, time and the author.
     2. You are also be presented with a _Status message_ indicating what has been performed.
     3. The _Current revision_ is the new _revision_ you just created. Text on the left hand side indicates which _revision_ this _**new revision**_ is based on.
 
-    <img src="../.gitbook/assets/Ex-4-2-Revert-3.png" alt="Image of Revisions tab" data-size="original">
+
+
+    <figure><img src="../.gitbook/assets/Ex-4-2-Revert-3.png" alt=""><figcaption></figcaption></figure>
 6. Navigate to the public view of the page (using an Incognito/Private window in your browser) and confirm if the content has been reverted.
 
 **Note**: Only a previously **Published** revision can become the **Current revision**. A draft revision will create a new draft revision and the current published revision will remain as the _Current revision_.
