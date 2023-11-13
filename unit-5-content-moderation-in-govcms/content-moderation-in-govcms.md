@@ -33,12 +33,12 @@ The workflow "states" available will depend on:
 1. The **current content state**.
 2. The transitions you’re permitted to use within your official content **role**.
 
-In the example below, the content was authored by a _Content author_. The current user is a _Content Approver_ and the _Standard page content_ is in the state of **Needs Review**. The _Content Approver_ can select from two options in the _Change to_ dropdown:
+In the example below, the content was authored by a _Content author_. The current user is a _Content Approver_ and the _Page content_ is in the state of **Needs Review**. The _Content Approver_ can select from two options in the _Change to_ dropdown:
 
 1. **Published**. This would make the content visible to site visitors.
 2. **Draft**. Usually this would then require the _Content author_ to make further changes to the page before again submitting it for review by changing the state to **Needs Review**.
 
-![Image of Standard page highlighting content moderation](../.gitbook/assets/Unit-5-Content-Moderation-2.png)
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p>Image showing where to change moderation state</p></figcaption></figure>
 
 **Note** While the _Content approver_ is reviewing the page, they are in _Edit_ mode, and so may make their own changes to the page before publishing.
 
