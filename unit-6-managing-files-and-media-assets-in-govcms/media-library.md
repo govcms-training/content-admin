@@ -22,27 +22,29 @@ To access the Media Library, click on **Content** in the _Admin menu_ then hover
 
 ![Image of accessing Media Library](../.gitbook/assets/Unit-6-Media-Library-1.png)
 
-The main elements of the _Media Library_ page and their functions are: 
+The main elements of the _Media Library_ page and their functions are:
 
-1. Bulk upload
-2. Add media
-3. Table and Grid tabs. These allow switching between views of Media
-3. A search and filtering area 
+1. Add media
+2. Table and Grid tabs. These allow switching between views of Media
+3. A search and filtering area
 4. A Media listing table that displays the Media entities matching the filtering criteria, or lists all Media entities if no filters are applied.
-5. A bulk operations area that allows you to apply actions to multiple media entities.
+5. Bulk operations
 
 These elements are highlighted and numbered on the screenshots below.
 
-![Image of Media Library - 1](../.gitbook/assets/Unit-6-Media-Library-2.png)
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption><p>Screenshot of the Media Library UI</p></figcaption></figure>
 
-![Image of Media Library - 2](../.gitbook/assets/Unit-6-Media-Library-3.png)
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption><p>Screenshot showing Bulk Media Actions</p></figcaption></figure>
 
+The **Add media** button allows you to add new Media assets to the site.&#x20;
 
-The **Add media** and **Bulk upload** buttons allow you to add new Media assets to the site. The **Filters** allow you to filter and search the media library for an existing media asset. The **Bulk operations area** allows you to implement bulk operations on multiple media assets. For example, you can use the checkboxes to select multiple media assets, then delete all selected media assets at by clicking the **Apply to selected items** button.
+The **Filters** allow you to filter and search the media library for an existing media asset.&#x20;
+
+The **Bulk operations area** allows you to implement bulk operations on multiple media assets. For example, you can use the checkboxes to select multiple media assets, then delete all selected media assets at by clicking the **Apply to selected items** button.
 
 ## Adding Media
 
-To add media to the _Media Library_, click the **+Add media** button at the top right of the _Media Library_ page. 
+To add media to the _Media Library_, click the **+Add media** button at the top left of the _Media Library_ page.
 
 **Note** This can also be performed by clicking **Content** → **Add media** when currently not on the _Media Library_ page.
 
@@ -58,21 +60,18 @@ Fill out all required fields. Providing some tags and a Revision log message can
 
 The main advantage of having the central media library is reusability - the same media asset can be included in multiple content pages.
 
-Media assets that were uploaded to the site directly from content \(such as by uploading an image into the Rich Text Editor\) will appear in the central Media library and can be also reused on other pages on the site.
+Media assets that were uploaded to the site directly from content (such as by uploading an image into the Rich Text Editor) will appear in the central Media library and can be also reused on other pages on the site.
 
 ## Uploading media - Content form
 
-When creating or editing content via a content form \(e.g. the _Standard Page form_\) the form includes an area to upload a thumbnail and a feature image. 
+When creating or editing content via a content form (e.g. the _Page form_) the form includes an area to upload a thumbnail image.
 
-![Image of Upload media Content form](../.gitbook/assets/Unit-6-Upload-Media-Content-Form-1.png)
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption><p>Thumbnail Media upload form</p></figcaption></figure>
 
-When you click on the **Select image(s)** button from the content form, an overlay window opens showing a list of available media to select from the media library.
+When you click on the **Add media** button from the content form, an overlay window opens showing a list of available media to select from the media library.
 
-![Image of Select images(s)](../.gitbook/assets/Unit-6-Upload-Media-Content-Form-2.png)
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption><p>Image upload widget</p></figcaption></figure>
 
-You can also click on the **Upload button**. Click on **Select files** to open a file browser, or drop files on the highlighted area.
-
-![Image of Select images(s)](../.gitbook/assets/Unit-6-Upload-Media-Content-Form-3.png)
-
+Click on **Select files** to open a file browser, or drop files on the highlighted area.
 
 **Note** The Files page is rarely used by users, and there is a proposal to remove this page from Drupal / GovCMS in future.
