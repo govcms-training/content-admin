@@ -8,7 +8,7 @@ In this exercise we’ll create a fully custom redirect from a short URL to a pa
 
 1.  In the _Admin Menu_, click on **Configuration**, hover over _Search and metadata_, then click **URL Redirects**.
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Showing where to find URL redirects</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Showing where to find URL redirects</p></figcaption></figure>
 2. Click the **Add Redirect** button at the top left of the page.
 3.  Enter _Path_ with your preferred redirect URL. This is the URL where your page, selected in the next step, will be redirected from. This should not be an existing alias or content URL in your site. In the screenshot below we use, as an example: **short-redirect** as the Path.
 
