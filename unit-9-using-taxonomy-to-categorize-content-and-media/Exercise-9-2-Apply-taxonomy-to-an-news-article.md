@@ -1,10 +1,11 @@
-# Exercise 9.2 - Add taxonomy to a news article
+# Exercise 9.2 - Add taxonomy to a Page
 
-In this exercise you will learn how to add a _News and media_ article and categorise it using the **News** vocaulary.
+In this exercise you will learn how to add a _Page_ article and categorise it using the **Topics** vocabulary.
 
-1. Create an _Event_ (hover over _Content_ on the _Admin menu_, then click **Add content**, then select **Event**).
-2. Add a _Title_ and some text to the _Body_ field.
-3. Begin typing in the **Categories** field. Notice the field _Categories_ is auto-type and the available include only the _News categories_ taxonomy items. The new items added in the previous exercise should be available.
-4.  Select a value from existing _taxonomy_ terms in the _Categories_ field.
+1. Create a **Page** (hover over _Content_ on the _Admin menu_, then click **Add content**, then select **Page**).
+2. Add a _Title_.
+3. Expand the **Metadata** tab and begin typing in the **Topics** field. Notice the **Topics** field is autocomplete and the available terms include only the Topics taxonomy items. The new terms added in the previous exercise should be available.
+4.  Select a value from existing _taxonomy_ terms in the Topics field.\
 
-    ![Image of Create News and Media](../.gitbook/assets/Ex-9-2-News-1.png)
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Showing autocomplete Topics taxonomy field</p></figcaption></figure>

@@ -84,7 +84,7 @@
 * [Taxonomy and Vocabulary](unit-9-using-taxonomy-to-categorize-content-and-media/taxonomy-and-vocabulary.md)
 * [Overview of Taxonomy form widgets](unit-9-using-taxonomy-to-categorize-content-and-media/overview-of-taxonomy-form-widgets.md)
   * [Exercise 9.1 - Add taxonomy terms](unit-9-using-taxonomy-to-categorize-content-and-media/exercise-9-1-add-taxonomy-terms.md)
-  * [Exercise 9.2 - Add taxonomy to a news article](unit-9-using-taxonomy-to-categorize-content-and-media/Exercise-9-2-Apply-taxonomy-to-an-news-article.md)
+  * [Exercise 9.2 - Add taxonomy to a Page](unit-9-using-taxonomy-to-categorize-content-and-media/Exercise-9-2-Apply-taxonomy-to-an-news-article.md)
 
 ## UNIT 10: MANAGING SITE NAVIGATIONS AND BREADCRUMBS
 
