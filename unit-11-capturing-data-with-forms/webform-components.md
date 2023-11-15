@@ -6,9 +6,9 @@ To see all the elements available when creating or editing a form, click on _Str
 
 Click on the **Build** button to the right hand side of a selected form, as shown in the screenshot below.
 
-![Image of Webforms page](../.gitbook/assets/Unit-11-Webform-components-1.png)
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption><p>Showing the Build button for the webform</p></figcaption></figure>
 
-Click on the **+Add element** button to the top right of the screen.
+Click on the **+Add element** button to the top left of the screen.
 
 You will see a long list of available components. Scroll down to see them all. The screenshots below show some examples from _Basic elements_, _Advanced elements_, _File upload elements_ and _Options elements_.
 
