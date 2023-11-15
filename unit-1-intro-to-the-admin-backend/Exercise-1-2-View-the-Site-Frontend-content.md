@@ -6,7 +6,7 @@ You’ll notice that the Admin menu is still visible, but now you also see the c
 
 **Note** The **Admin menu** and other components (highlighted in the screenshot below) are still available, as you are still logged in to the site. These components are discussed later in this course.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To return to the previous page, add **/user** to the end of the URL in your browser.
 

@@ -10,7 +10,7 @@ In the example shown in the screenshot below, a site visitor is on the page 'Sit
 
 * Home > Events > Site builder training (TEST CONTENT)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Image showing breadcrumbs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Image showing breadcrumbs</p></figcaption></figure>
 
 ## Navigating using breadcrumbs
 

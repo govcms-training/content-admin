@@ -6,7 +6,7 @@
 
 There are several different types of site navigation available on GovCMS websites. Dropdown navigation can also be set up so that the menu items drop down when a mouse hovers over them. The following screenshot shows the main navigation menu in the header region.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Highlighting the main navigation menu</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Highlighting the main navigation menu</p></figcaption></figure>
 
 ## Other navigation types
 

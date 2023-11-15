@@ -8,7 +8,7 @@ Some fields are optional, for example the body field in a _Webform_.
 
 Field settings, such as whether a field is optional or mandatory and the associated widget type are pre-configured by your site builder when building the site. For example, for an _Event_ content type in GovCMS, the start and end date and time are logical and necessary, so they are configured to be mandatory fields.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Event fields</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Event fields</p></figcaption></figure>
 
 ## Properties
 
@@ -16,4 +16,4 @@ A _property_ is set at a deeper level (sometimes referred to as "baked in"). For
 
 The screenshot below shows both the _Author_ property and the _Last saved_ property which are visible to the author when editing the _Event_.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Event property fields</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Event property fields</p></figcaption></figure>

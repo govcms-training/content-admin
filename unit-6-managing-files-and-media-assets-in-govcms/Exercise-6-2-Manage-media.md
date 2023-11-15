@@ -13,7 +13,7 @@ Let’s learn how to use the Bulk operations functionality to manage Media.
 3. Select **Delete media** from the Action dropdown.
 4.  Click the **Apply to selected items** button.
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Deleting multiple media entities</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Deleting multiple media entities</p></figcaption></figure>
 5. You will be directed to a page asking if you are sure you want to delete the items. Confirm the action by clicking the **Delete** button. This will remove all the selected _Media_ entities from your training site.\
 
 
