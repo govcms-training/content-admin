@@ -1,11 +1,11 @@
 # Exercise 8.1 - Update meta tags of content
 
-In this exercise you’ll learn how to update the meta tags for a _Standard page_.
+In this exercise you’ll learn how to update the meta tags for a _Page_.
 
-1. Navigate to the _Standard page_ created in [**Exercise 3.1**](../unit-3-managing-content-in-govcms/Exercise-3-1-Create-some-content.md) by clicking on _Content_, clicking on your page then clicking the _Edit_ menu item.
+1. Navigate to the _Page_ created in [**Exercise 3.1**](../unit-3-managing-content-in-govcms/Exercise-3-1-Create-some-content.md) by clicking on _Content_, clicking on your page then clicking the _Edit_ menu item.
 2. Create some Basic page content in the _Body_ field (you should already have content here but you may wish to edit it). Do not modify the Meta Tags yet.
 3. Publish your page by setting the _Change to_ field to 'Published' and clicking the **Save** button at the top right.
-4. Using the browser inspector tool (usually right-click, then Inspect element), review the \<head> of your page. Locate and review the content of tags such as _title_ and _description_ - see the screenshot below. **Note** the screenshot below is using the GovCMS site as an example. \
+4. Using the browser inspector tool (usually right-click, then Inspect element), review the \<head> of your page. Locate and review the content of tags such as _title_ and _description_ - see the screenshot below. **Note** the screenshot below is using the GovCMS site as an example.\
    (NB - Some browsers are managed by your organisation and restricts you from viewing the source code.)
 5.  Discuss any questions with your trainer.
 
