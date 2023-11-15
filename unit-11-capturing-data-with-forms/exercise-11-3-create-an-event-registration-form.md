@@ -36,7 +36,7 @@ In this exercise you will create an _Event registration form_.
 
 In the Email handler pop up window, set the custom email address and click on Save. You can separate multiple email addresses with a comma.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Add custom email addresses separated by a comma</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Add custom email addresses separated by a comma</p></figcaption></figure>
 
 Test your form
 

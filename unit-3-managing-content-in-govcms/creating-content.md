@@ -8,7 +8,7 @@ You can create content in several different ways:
 
 * Click on **Content** from the _Admin menu_ and then click on the **Add content** button at the top left of the page.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Add content button</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Add content button</p></figcaption></figure>
 
 * Hover your mouse over _Content_ in the _Admin menu_, then hover over **Add content**, then click on the type of content you’d like to create. In the screenshot below we can click on **Page**.
 
