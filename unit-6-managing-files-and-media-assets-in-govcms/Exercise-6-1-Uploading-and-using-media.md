@@ -7,7 +7,7 @@ In this exercise you will upload an image directly to the media library (Part 1)
 1. Navigate to the _Media_ page by clicking on **Content** then **Media** on the _Admin menu_.
 2.  Click the **Add Media** button at the top left of the page.
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Showing Add Media button</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Showing Add Media button</p></figcaption></figure>
 3.  Click **Image** to upload an image file.
 
 

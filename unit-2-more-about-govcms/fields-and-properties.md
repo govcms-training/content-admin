@@ -16,4 +16,4 @@ A _property_ is set at a deeper level (sometimes referred to as "baked in"). For
 
 The screenshot below shows both the _Author_ property and the _Last saved_ property which are visible to the author when editing the _Event_.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Event property fields</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Event property fields</p></figcaption></figure>
