@@ -92,7 +92,6 @@
 * [About breadcrumbs](unit-10-managing-site-navigations-and-breadcrumbs/about-breadcrumbs.md)
 * [Managing menu items](unit-10-managing-site-navigations-and-breadcrumbs/managing-menu-items.md)
   * [Exercise 10.1 - Add an item to a menu](unit-10-managing-site-navigations-and-breadcrumbs/Exercise-10-1-Add-an-item-to-a-menu.md)
-  * [Exercise 10.2 - Add a menu item from a Standard page](unit-10-managing-site-navigations-and-breadcrumbs/exercise-10.2-Add-a-Menu-item-from-standard-page.md)
 
 ## UNIT 11: CAPTURING DATA WITH FORMS
 
