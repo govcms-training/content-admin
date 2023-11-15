@@ -1,31 +1,31 @@
 # Exercise 10.1 - Add an item to a menu
 
-There are two methods you can use to add menu items. This method requires privileged site access (e.g. an Administrator user).
+There are two methods you can use to add menu items.
 
-1.  Hover over _Structure_, then → _Menus_ and click **Main navigation** on the _Admin menu_.
+1.  Hover over _Structure_, then → _Menus_ and click **Primary navigation.**\
 
-    <img src="../.gitbook/assets/Ex-10-1-Menus-Main-Nav-1.png" alt="Image of Menu navigation to footer menu" data-size="original">
-2.  Click on ther **Add Link** button at the top right of the page.
 
-    <img src="../.gitbook/assets/Ex-10-1-Menus-Main-Nav-2.png" alt="Image of Menu navigation to footer menu" data-size="original">
-3. Begin typing the word 'Copyright' in the _Link_ field. It is an auto-complete field and you should see the link to the 'Copyright' page in the field.
-4. Add a _Description_ and a _Menu link title_ as shown on the screenshot below.
-5.  Click **Save** once complete.
+    <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>Hovering over Structure >> Menu >> Primary navigation</p></figcaption></figure>
+2.  Click on the **Add Link** button at the top left of the page.
 
-    <img src="../.gitbook/assets/Ex-10-1-Menus-Main-Nav-3.png" alt="Image of Menu navigation to footer menu" data-size="original">
-6. Click on the **Home** item in the breadcrumbs at the top left of the page.
-7. Review the change to the menu in the _Main navigation_. You should see the new menu item 'Copyright' in the menu.
+    <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Click on Add link</p></figcaption></figure>
+3. Begin typing the title of an existing content in the _Link_ field. It is an autocomplete field and as you type the field will auto-suggest from your existing content.
+4. Add a _Description_ and a _Menu link title_.
+5.  Click **Save** once complete.\
+
+
+    <figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption><p>Showing menu fields</p></figcaption></figure>
+6. Review the change to the menu in the _Primary navigation_. You should see the new menu item in the Primary navigation menu at the top of the page.
 
 ## Method 2 - From content
 
-1. Navigate to a Standard Page by clicking on _Content_ in the _Admin menu_ and clicking on a page in the list of type _Standard page_.
-2. Click on the **Edit** menu item.
-3. In the RHS click **Menu settings** item to expand the item.
-4. Click **Provide a menu link**
-5. Type in a _Menu link title_. For example add the text 'Example menu item'
-6. Select Main navigation\_ in the _Parent Item_ dropdown
-7. Set _Published_
-8.  Click **Save**
+1. Edit any _Page_ content.
+2. Expand **Menu settings** in the right sidebar.
+3. Click **Provide a menu link**
+4. Type in a _Menu link title_.
+5. Select Primary navigation in the _Parent link_ dropdown
+6. Make sure your Page content is published.
+7. Click **Save**
+8. Go to the homepage and review the change to the menu in the Primary _navigation_.
 
-    <img src="../.gitbook/assets/Ex-10-1-Menus-Standard-page-1.png" alt="Image of Standard Page add menu item" data-size="original">
-9. Go to the homepage and review the change to the menu in the _Main navigation_. You should see the new menu item 'Example menu item' in the menu.
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>Image showing Menu settings on the edit screen of a Page</p></figcaption></figure>
