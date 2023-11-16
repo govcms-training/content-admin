@@ -104,8 +104,6 @@
 ## UNIT 12: ADVANCED CONTENT EDITING
 
 * [Advanced content editing](unit-12-advanced-content-editing/advanced-content-editing.md)
-* [Using Components for rich layout options](unit-12-advanced-content-editing/using-components-for-rich-layout-options.md)
-  * [Exercise 12.1 - Add content using components](unit-12-advanced-content-editing/exercise-12-1-add-content-using-components.md)
 * [Advanced - content bulk operations](unit-12-advanced-content-editing/bulk-operations.md)
   * [Exercise 12.2 - Bulk operations - delete test content](unit-12-advanced-content-editing/exercise-12-2-delete-test-content.md)
 

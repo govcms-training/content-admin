@@ -1,9 +1,9 @@
 # Advanced content editing
 
-Page layout in GovCMS is limited to **predefined** and **preconfigured** _regions_. Layouts cannot be easily changed without some **theme** development work. However, the **Panelizer** module in GovCMS does allow more complex layouts to be created and managed by content editors.
+Page layout in GovCMS is determined by your theme.
 
-The _Panelizer_ module allows a content administrator to create **custom layouts** which can be reused on multiple pages. At its core, _Panelizer_ is a drag and drop content manager that lets you visually design a layout and place content within that layout.‌
+In the training site, we are using [CivicTheme](https://www.civictheme.io/) and the default components are shown in the screenshot below.
 
-The sceeenshot below shows an example of how **components** are arranged using _Panelizer_ in the construction of a Homepage.
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption><p>Showing default CivicTheme components</p></figcaption></figure>
 
-![](../.gitbook/assets/Unit-12-Advanced-Panelizer-1.png)
+You can visualise these components by viewing the [CivicTheme Storybook](https://www.civictheme.io/themes/custom/civicthemeio/storybook-static/index.html?path=/story/base-menu--menu).
