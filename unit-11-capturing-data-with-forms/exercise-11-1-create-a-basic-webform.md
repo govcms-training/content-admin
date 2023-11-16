@@ -24,7 +24,7 @@ In this exercise you will create a simple website feedback form. Before we can c
     <figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 9.  Add text to the the _Title_ field as shown in the screenshot below.
 
-    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 10. Note the other tabs that allow you to configure the field - _Conditions_, _Advanced_ and _Access_. Explore those tabs but do not modify anything yet.
 11. Click the **Save** button.
 12. Click on the **Save elements** button at the bottom left of the page.\

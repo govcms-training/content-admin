@@ -8,4 +8,4 @@ In this exercise you will learn how to add a _Page_ article and categorise it us
 4.  Select a value from existing _taxonomy_ terms in the Topics field.\
 
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Showing autocomplete Topics taxonomy field</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Showing autocomplete Topics taxonomy field</p></figcaption></figure>

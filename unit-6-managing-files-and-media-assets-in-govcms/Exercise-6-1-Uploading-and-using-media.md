@@ -7,7 +7,7 @@ In this exercise you will upload an image directly to the media library (Part 1)
 1. Navigate to the _Media_ page by clicking on **Content** then **Media** on the _Admin menu_.
 2.  Click the **Add Media** button at the top left of the page.
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Showing Add Media button</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Showing Add Media button</p></figcaption></figure>
 3.  Click **Image** to upload an image file.
 
 
@@ -22,7 +22,7 @@ In this exercise you will upload an image directly to the media library (Part 1)
     **Note** Image alt text is required to enable screen readers and facilitate vision-impaired people.
 6.  Click **Save**
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Uploading an image</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Uploading an image</p></figcaption></figure>
 
 ## Part 2: Add media to a Page
 
@@ -31,16 +31,16 @@ In this exercise you will upload an image directly to the media library (Part 1)
     Note - you may not have a "Banner" tab if you are not using CivicTheme. In that case, find any Media upload field and use that.\
 
 
-    <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Add media button</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Add media button</p></figcaption></figure>
 3.  Select the image and then click on _Insert selected_.
 
 
 
-    <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Select image and click on Insert selected</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Select image and click on Insert selected</p></figcaption></figure>
 4.  Once the image is selected you will see a preview in your content like the this screenshot:\
 
 
-    <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Preview of image</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Preview of image</p></figcaption></figure>
 5.  Fill out any required fields for your _Page_ and click the **Save.** The image now appears on the frontend. The location of the image may be different on your site depending on your theme.\
 
 
