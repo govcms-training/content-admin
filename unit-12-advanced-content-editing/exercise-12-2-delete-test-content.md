@@ -10,5 +10,7 @@ In this exercise you will perform a bulk action to delete content.
 4. Click the **Apply to selected items** button.
 5.  You will be redirected to a conrfirmation page listing the content to be deleted. Click on **Delete** to confirm your action.
 
-    <img src="../.gitbook/assets/Ex-12-3-Bulk-Delete-2.png" alt="Image of confirm delete message" data-size="original">
+
+
+    <figure><img src="../.gitbook/assets/Ex-12-3-Bulk-Delete-2.png" alt=""><figcaption><p>Confirmation page</p></figcaption></figure>
 6. Review Content page - all content that you selected has been removed

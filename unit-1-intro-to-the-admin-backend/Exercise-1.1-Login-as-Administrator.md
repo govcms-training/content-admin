@@ -12,7 +12,7 @@ You should now see the GovCMS login screen as shown in the screenshot below. Ent
 * **Username:** Refer to the email sent to you prior to the course
 * **Password:** The password you entered after clicking on the one-time login link from the email
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 After successfully logging in, you will be redirected to a page that shows the following:
 
@@ -22,7 +22,7 @@ After successfully logging in, you will be redirected to a page that shows the f
 
 **Note:** Some elements from the screenshot below may be different, due to permissions settings.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Setting up Two Factor Authentication (TFA)
 
