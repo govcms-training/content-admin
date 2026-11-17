@@ -1,49 +1,55 @@
-# GovCMS Content Administration Training Manual
+---
+icon: hand-wave
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+metaLinks:
+  alternates:
+    - /broken/spaces/yE16Xb3IemPxJWydtPOj/pages/LThc2RqOxBKU56Qt3TMy
+---
 
-[![CC BY-SA 3.0](https://camo.githubusercontent.com/54f85ff154017b9f86a8882c3469d7dfcab63442ae40f2ec49b7bbffede2d475/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d434325323042592d2d5341253230332e3025323041552d6c69676874677265792e737667)](https://creativecommons.org/licenses/by-sa/3.0/au/)
+# Introduction
 
-![GovCMS Logo](.gitbook/assets/govcms-logo.png) ![Salsa Digital Logo](.gitbook/assets/salsa-logo.png)
+<div><figure><img src=".gitbook/assets/govcms-logo.png" alt="" width="80"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/salsa-logo.png" alt="" width="92"><figcaption></figcaption></figure></div>
 
-This training manual is for government or not-for-profit employees using GovCMS to edit and manage their website. However, many of the concepts in this manual can be applied to other Drupal sites.
+## Welcome to the Introduction to Content Management training manual for GovCMS
 
-This manual assumes you have GovCMS on your local computer or on the GovCMS hosting platform. While there are no specific knowledge prerequisites, if you’ve had experience with other CMSs you’ll find this course \(and using GovCMS\) easier.
+This manual provides a clear, practical guide for creating, editing, managing and maintaining content on GovCMS websites. It's written for Content Authors and Content Approvers working on both GovCMS SaaS and PaaS platforms. The aim is to support everyday publishing tasks while keeping responsibilities separated from more advanced content editing and technical administration tasks.
 
-Public URL: [https://salsa-digital.gitbook.io/govcms-content-administration](https://salsa-digital.gitbook.io/govcms-content-administration) GitHub URL: [https://github.com/govcms-training/content-admin](https://github.com/govcms-training/content-admin)
+The structure reflects current GovCMS best practice and Drupal 11 functionality. All instructions are theme‑agnostic unless noted otherwise.&#x20;
 
-## What you will learn
+Optional content is included for websites using CivicTheme.
 
-In this training manual, you will learn how to:
+Each section includes practical explanations and, where applicable, exercises to reinforce learning. To get the most of out of the practical exercises, make sure you have access to a GovCMS feature environment or a local instance of your website.
 
-1. Login to the administration area and access key areas
-2. Create and manage content and content revisions
-3. Create and manage files and media assets
-4. Publish content and learn the GovCMS content moderation workflow
-5. Manage content URLs, URL aliases and redirects
-6. Use taxonomy to categorise content
-7. Create online forms
-8. Manage blocks of content and update site navigation
-9. Manage content layout
-10. Understand more about GovCMS and Drupal
+Additional documentation can be found in the [GovCMS Knowledge Base](https://www.govcms.support/support/solutions) articles via the [GovCMS Service Desk](https://govcms.freshdesk.com/).
 
-## About GovCMS
+{% hint style="info" %}
+The training manual is intended as a companion piece to the remote or in-person GovCMS training, as such there are specific call-outs to the GovCMS training program.
 
-Welcome to GovCMS, a whole-of-government digital platform based on open source content management system \(CMS\) Drupal.
+However, the majority of the information in the training manual is applicable outside of the training.
+{% endhint %}
 
-One of the advantages of GovCMS as a whole-of-government digital platform is that the content covered in this course can be applied to the many GovCMS websites across Australian government. In addition, while this course focuses on GovCMS, much of the content and exercises can be applied to Drupal websites.
+<figure><img src=".gitbook/assets/cc-by-sa.png" alt=""><figcaption><p><a href="https://creativecommons.org/licenses/by-sa/3.0/au/">https://creativecommons.org/licenses/by-sa/3.0/au/</a></p></figcaption></figure>
 
-## Contributing & Feedback
+### Jump right in
 
-We’re continually working on improving these documents with community input and we appreciate any feedback, whether it's helping to contribute to further documentation or code, grammar issues, or simply a suggestion or improvement! Please refer to the [Contributing guide](contributing.md) for more guidance on this topic.
-
-Alternatively you can also provide any feedback by emailing **govcms.training@salsadigital.com.au**.
-
-**Note**: While these training materials are updated regularly, modules are also often updated and so you may find some differences between your user interface and the screenshots in this document. We appreciate your feedback and will work as quickly as possible to incorporate any corrections.
-
-## License
-
-[![CC BY-SA 3.0](https://camo.githubusercontent.com/54f85ff154017b9f86a8882c3469d7dfcab63442ae40f2ec49b7bbffede2d475/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d434325323042592d2d5341253230332e3025323041552d6c69676874677265792e737667)](https://creativecommons.org/licenses/by-sa/3.0/au/)  
-  
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Australia License \(CC BY-SA 3.0 AU\)](https://creativecommons.org/licenses/by-sa/3.0/au/).
-
-[![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/3.0/au/)
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting started in GovCMS</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/zAp101XNX82HnyCe3C9U/getting-started-with-govcms">Getting started with GovCMS</a></td></tr><tr><td><strong>Roles and permissions</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/zAp101XNX82HnyCe3C9U/roles-and-permissions">Roles and permissions</a></td></tr><tr><td><strong>Logging in and 2FA</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/zAp101XNX82HnyCe3C9U/logging-in-2fa-and-the-admin-interface">Logging in, 2FA and the admin interface</a></td></tr><tr><td><strong>Understanding content</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/zAp101XNX82HnyCe3C9U/understanding-content">Understanding content</a></td></tr><tr><td><strong>Creating, editing and archiving content</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/zAp101XNX82HnyCe3C9U/creating-editing-and-archiving-content">Creating, editing and archiving content</a></td></tr><tr><td><strong>Rich text editing with CKEditor 5</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/zAp101XNX82HnyCe3C9U/rich-text-editing-with-ckeditor-5">Rich text editing with CKEditor 5</a></td></tr><tr><td><strong>Media and files</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/zAp101XNX82HnyCe3C9U/media-and-files">Media and files</a></td></tr><tr><td><strong>URL aliases and redirects</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/zAp101XNX82HnyCe3C9U/url-aliases-and-redirects">URL aliases and redirects</a></td></tr><tr><td><strong>Menus and navigation</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/zAp101XNX82HnyCe3C9U/menus-and-navigation">Menus and navigation</a></td></tr><tr><td><strong>Taxonomy</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/zAp101XNX82HnyCe3C9U/taxonomy">Taxonomy</a></td></tr><tr><td><strong>Workflows</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/zAp101XNX82HnyCe3C9U/workflows">Workflows</a></td></tr><tr><td><strong>Webforms</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/zAp101XNX82HnyCe3C9U/webforms">Webforms</a></td></tr><tr><td><strong>Advanced content editing</strong></td><td></td><td></td><td><a href="/broken/pages/l1QBMc6usPDQISKJ8f0s">Broken link</a></td></tr><tr><td><strong>Accessibility</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/zAp101XNX82HnyCe3C9U/accessibility">Accessibility</a></td></tr><tr><td><strong>Content governance and best practices</strong></td><td></td><td></td><td><a href="/broken/pages/rhYYoY4FG2gF5KF44Fok">Broken link</a></td></tr><tr><td><strong>CivicTheme components</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/zAp101XNX82HnyCe3C9U/civictheme-components-optional">CivicTheme components (Optional)</a></td></tr><tr><td><strong>Challenge exercises</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/zAp101XNX82HnyCe3C9U/challenge-exercises">Challenge exercises</a></td></tr></tbody></table>
 

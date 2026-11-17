@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Introduction to Content Management
+  structure:
+    - type: space
+      key: space-1
+      title: Introduction to Content Management
+      path: govcms-content-administration
+      default: true
+      content:
+        directory: /

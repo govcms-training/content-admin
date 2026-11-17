@@ -1,97 +1,125 @@
 # Table of contents
 
-* [GovCMS Content Administration Training Manual](README.md)
-* [Contributing and Feedback Guide](contributing.md)
+* [Introduction](README.md)
+* [Videos](videos.md)
 
-## Introduction to GovCMS
+## Getting started with GovCMS
 
-* [Introduction to GovCMS](introduction-to-govcms/intro.md)
-* [Overview of user roles](introduction-to-govcms/overview-of-user-roles.md)
+* [What is GovCMS](getting-started-with-govcms/what-is-govcms.md)
+* [The features of GovCMS](getting-started-with-govcms/the-features-of-govcms.md)
+* [How training works](getting-started-with-govcms/how-training-works.md)
+* [What this manual covers](getting-started-with-govcms/what-this-manual-covers.md)
+* [What this manual does not cover](getting-started-with-govcms/what-this-manual-does-not-cover.md)
 
-## Training Videos
+## Roles and permissions
 
-* [GovCMS how-to videos](training-videos/video-list.md)
+* [Common roles](roles-and-permissions/common-roles.md)
+* [Publishing responsibilities](roles-and-permissions/publishing-responsibilities.md)
 
-## Unit 1: Intro to the Admin Backend
+## Logging in, 2FA and the admin interface
 
-* [How to login to GovCMS](unit-1-intro-to-the-admin-backend/how-to-login.md)
-* [How to log out from your site](unit-1-intro-to-the-admin-backend/how-to-log-out-from-your-site.md)
-* [The Frontend Homepage Layout](unit-1-intro-to-the-admin-backend/the-frontend-homepage-layout.md)
-* [How to access the content management area](unit-1-intro-to-the-admin-backend/how-to-access-the-content-management-area.md)
-* [Overview of content management area](unit-1-intro-to-the-admin-backend/overview-of-content-management-area.md)
-* [Content management - filters overview](unit-1-intro-to-the-admin-backend/content-management-filters-overview.md)
-* [Administration menu overview](unit-1-intro-to-the-admin-backend/administration-menu-overview.md)
+* [Logging in](logging-in-2fa-and-the-admin-interface/logging-in.md)
+* [Two‑factor authentication (2FA)](logging-in-2fa-and-the-admin-interface/two-factor-authentication-2fa.md)
+* [Resetting your password or 2FA](logging-in-2fa-and-the-admin-interface/resetting-your-password-or-2fa.md)
+* [Logging out](logging-in-2fa-and-the-admin-interface/logging-out.md)
+* [Admin toolbar overview](logging-in-2fa-and-the-admin-interface/admin-toolbar-overview.md)
+* [Using the Admin toolbar](logging-in-2fa-and-the-admin-interface/using-the-admin-toolbar.md)
+* [User management](logging-in-2fa-and-the-admin-interface/user-management.md)
+* [Exercise](logging-in-2fa-and-the-admin-interface/exercise.md)
 
-## Unit 2: More about GovCMS
+## Understanding content
 
-* [Content types overview](unit-2-more-about-govcms/untitled-2.md)
-* [Overview of content create/edit form](unit-2-more-about-govcms/untitled-3.md)
-* [Form fields and form widgets](unit-2-more-about-govcms/form-fields-and-form-widgets.md)
-* [Fields and properties](unit-2-more-about-govcms/fields-and-properties.md)
-* [Structured content in GovCMS](unit-2-more-about-govcms/structured-content-in-govcms.md)
-* [Overview of Rich text editor](unit-2-more-about-govcms/overview-of-rich-text-editor.md)
-* [Embedding media files](unit-2-more-about-govcms/inserting-media-files.md)
-* [Text format](unit-2-more-about-govcms/text-format.md)
-* [Content references in GovCMS](unit-2-more-about-govcms/content-references-in-govcms.md)
+* [Using the content screen](understanding-content/using-the-content-screen.md)
+* [What are content types](understanding-content/what-are-content-types.md)
+* [Content admin form](understanding-content/content-admin-form.md)
+* [Fields](understanding-content/fields.md)
+* [View modes](understanding-content/view-modes.md)
+* [Exercise](understanding-content/exercise.md)
 
-## UNIT 3: MANAGING CONTENT IN GOVCMS
+## Creating, editing and archiving content
 
-* [Creating Content](unit-3-managing-content-in-govcms/creating-content.md)
-* [Optional Exercise 3.2: Create a Blog Article](unit-3-managing-content-in-govcms/optional-exercise-3.2-create-a-blog-article.md)
-* [Editing content](unit-3-managing-content-in-govcms/editing-content.md)
-* [Archiving content](unit-3-managing-content-in-govcms/archive-content.md)
-* [How content changes can affect the site](unit-3-managing-content-in-govcms/how-content-changes-can-affect-the-site.md)
+* [Creating content](creating-editing-and-archiving-content/creating-content.md)
+* [Editing content](creating-editing-and-archiving-content/editing-content.md)
+* [Adding field data](creating-editing-and-archiving-content/adding-field-data.md)
+* [Archiving vs unpublishing](creating-editing-and-archiving-content/archiving-vs-unpublishing.md)
+* [Revisions](creating-editing-and-archiving-content/revisions.md)
+* [Exercise](creating-editing-and-archiving-content/exercise.md)
 
-## UNIT 4: MANAGING CONTENT REVISIONS
+## Rich text editing with CKEditor 5
 
-* [Managing content revisions](unit-4-managing-content-revisions/managing-content-revisions.md)
+* [Overview](rich-text-editing-with-ckeditor-5/overview.md)
+* [Headings](rich-text-editing-with-ckeditor-5/headings.md)
+* [Links](rich-text-editing-with-ckeditor-5/links.md)
+* [Lists and tables](rich-text-editing-with-ckeditor-5/lists-and-tables.md)
+* [Images](rich-text-editing-with-ckeditor-5/images.md)
+* [Pasting content](rich-text-editing-with-ckeditor-5/pasting-content.md)
+* [Exercise](rich-text-editing-with-ckeditor-5/exercise.md)
 
-## UNIT 5: CONTENT MODERATION IN GOVCMS
+## Media and files
 
-* [Content moderation in GovCMS](unit-5-content-moderation-in-govcms/content-moderation-in-govcms.md)
+* [Working with media and files](media-and-files/working-with-media-and-files.md)
+* [Media vs files](media-and-files/media-vs-files.md)
+* [Adding media](media-and-files/adding-media.md)
+* [Reusing media](media-and-files/reusing-media.md)
+* [Replacing files associated with media](media-and-files/replacing-files-associated-with-media.md)
+* [File size and format](media-and-files/file-size-and-format.md)
+* [Exercise](media-and-files/exercise.md)
 
-## UNIT 6: Files and media assets <a id="unit-6-files-media-assets"></a>
+## URL aliases and redirects
 
-* [Managing files and media assets in GovCMS](unit-6-files-media-assets/managing-files-and-media-assets-in-govcms.md)
+* [URL aliases](url-aliases-and-redirects/url-aliases.md)
+* [Manual aliases](url-aliases-and-redirects/manual-aliases.md)
+* [Redirects](url-aliases-and-redirects/redirects.md)
+* [Exercise](url-aliases-and-redirects/exercise.md)
 
-## UNIT 7: MANAGING URL ALIASES AND REDIRECTS
+## Menus and navigation
 
-* [Managing URL aliases and redirects](unit-7-managing-url-aliases-and-redirects/managing-url-aliases-and-redirects.md)
-* [About URL aliases](unit-7-managing-url-aliases-and-redirects/about-url-aliases.md)
-* [About redirects](unit-7-managing-url-aliases-and-redirects/about-redirects.md)
+* [Overview](menus-and-navigation/overview.md)
+* [Adding menu items via the content form](menus-and-navigation/adding-menu-items-via-the-content-form.md)
+* [Using the menu screen](menus-and-navigation/using-the-menu-screen.md)
+* [Exercise](menus-and-navigation/exercise.md)
 
-## UNIT 8: META TAGS AND SEO
+## Taxonomy
 
-* [Meta tags and SEO](unit-8-meta-tags-and-seo/meta-tags-and-seo.md)
-* [How tokens are used to populate default meta tags](unit-8-meta-tags-and-seo/how-tokens-are-used-to-populate-default-meta-tags.md)
+* [What is taxonomy](taxonomy/what-is-taxonomy.md)
+* [Creating new terms](taxonomy/creating-new-terms.md)
+* [Exercise](taxonomy/exercise.md)
 
-## UNIT 9: USING TAXONOMY TO CATEGORIZE CONTENT AND MEDIA
+## Workflows
 
-* [About taxonomy](unit-9-using-taxonomy-to-categorize-content-and-media/about-taxonomy.md)
-* [Overview of Taxonomy form widgets](unit-9-using-taxonomy-to-categorize-content-and-media/overview-of-taxonomy-form-widgets.md)
+* [Content moderation and workflow](workflows/content-moderation-and-workflow.md)
+* [Moderation states](workflows/moderation-states.md)
+* [Workflow in practice](workflows/workflow-in-practice.md)
+* [Moderation dashboard](workflows/moderation-dashboard.md)
+* [Scheduled publishing](workflows/scheduled-publishing.md)
+* [Exercise](workflows/exercise.md)
 
-## UNIT 10: MANAGING SITE NAVIGATIONS AND BREADCRUMBS
+## Webforms
 
-* [About site navigation](unit-10-managing-site-navigations-and-breadcrumbs/about-site-navigation.md)
-* [About breadcrumbs](unit-10-managing-site-navigations-and-breadcrumbs/about-breadcrumbs.md)
-* [Restrictions for adding content to the site navigation](unit-10-managing-site-navigations-and-breadcrumbs/restrictions-for-adding-content-to-the-site-navigation.md)
+* [What are webforms](webforms/what-are-webforms.md)
+* [Webforms and privacy](webforms/webforms-and-privacy.md)
+* [Creating a webform](webforms/creating-a-webform.md)
+* [Basic components](webforms/basic-components.md)
+* [Advanced features](webforms/advanced-features.md)
+* [Viewing submissions](webforms/viewing-submissions.md)
+* [Exercise](webforms/exercise.md)
 
-## UNIT 11: CAPTURING DATA WITH FORMS
+## Metatags and SEO
 
-* [Capturing data with forms](unit-11-capturing-data-with-forms/capturing-data-with-forms.md)
-* [Webform components](unit-11-capturing-data-with-forms/webform-components.md)
+* [Overview](metatags-and-seo/overview.md)
+* [Exercise](metatags-and-seo/exercise.md)
 
-## UNIT 12: ADVANCED CONTENT EDITING
+## Accessibility
 
-* [Advanced content editing](unit-12-advanced-content-editing/advanced-content-editing.md)
-* [Using Components for rich layout options](unit-12-advanced-content-editing/using-components-for-rich-layout-options.md)
-* [Advanced - content bulk operations](unit-12-advanced-content-editing/advanced-content-bulk-operations.md)
+* [What is accessibility](accessibility/what-is-accessibility.md)
+* [Common accessibility tips](accessibility/common-accessibility-tips.md)
+* [Exercise](accessibility/exercise.md)
 
-## Appendix A - Glossary
+## CivicTheme components (Optional)
 
-* [Glossary](appendix-a-glossary/glossary.md)
+* [Working with CivicTheme](civictheme-components-optional/working-with-civictheme.md)
+* [CivicTheme components](civictheme-components-optional/civictheme-components.md)
 
-## About Salsa Digital
+## Challenge exercises
 
-* [Who is Salsa Digital?](about-salsa-digital/who-is-salsa-digital.md)
-
+* [Scenario: CivicTheme](challenge-exercises/scenario-civictheme.md)
